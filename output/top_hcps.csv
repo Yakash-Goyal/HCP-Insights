@@ -1,0 +1,51 @@
+physician_id,physician_specialty,physician_state,last_payment_date,frequency,value,recency_days,r_score,f_score,v_score,rfm_score,segment
+PHY00287,Cardiology,NY,2025-12-20,14,13980.91,11,4,4,4,12,High Priority
+PHY00476,Psychiatry,TX,2025-12-26,10,11538.56,5,4,4,4,12,High Priority
+PHY00498,Neurology,NC,2025-12-31,12,11368.73,0,4,4,4,12,High Priority
+PHY00376,Neurology,OH,2025-12-20,11,11164.31,11,4,4,4,12,High Priority
+PHY00021,Rheumatology,GA,2025-12-31,11,10430.7,0,4,4,4,12,High Priority
+PHY00416,Cardiology,CA,2025-12-28,10,10167.69,3,4,4,4,12,High Priority
+PHY00337,Pulmonology,TX,2025-12-29,11,9481.09,2,4,4,4,12,High Priority
+PHY00082,Neurology,IL,2025-12-20,13,8276.52,11,4,4,4,12,High Priority
+PHY00386,Psychiatry,IL,2025-12-11,11,7637.36,20,4,4,4,12,High Priority
+PHY00088,Cardiology,MI,2025-12-20,11,7338.1,11,4,4,4,12,High Priority
+PHY00142,Cardiology,CA,2025-12-25,15,7315.51,6,4,4,4,12,High Priority
+PHY00016,Pulmonology,TX,2025-12-28,13,6536.62,3,4,4,4,12,High Priority
+PHY00179,Cardiology,NY,2025-12-31,12,6350.45,0,4,4,4,12,High Priority
+PHY00313,Neurology,NC,2025-12-26,12,5988.21,5,4,4,4,12,High Priority
+PHY00134,Pulmonology,OH,2025-12-20,12,5948.67,11,4,4,4,12,High Priority
+PHY00175,Psychiatry,MI,2025-12-16,12,5947.07,15,4,4,4,12,High Priority
+PHY00407,Rheumatology,GA,2025-12-23,10,5703.18,8,4,4,4,12,High Priority
+PHY00433,Pulmonology,GA,2025-12-31,13,5611.67,0,4,4,4,12,High Priority
+PHY00032,Cardiology,GA,2025-12-23,11,5282.94,8,4,4,4,12,High Priority
+PHY00464,Cardiology,MI,2025-12-12,9,12859.78,19,4,3,4,11,High Priority
+PHY00321,Psychiatry,NY,2025-11-14,15,12386.37,47,3,4,4,11,High Priority
+PHY00022,Pulmonology,CA,2025-11-09,11,12294.57,52,3,4,4,11,High Priority
+PHY00184,Endocrinology,CA,2025-11-29,11,10606.35,32,3,4,4,11,High Priority
+PHY00012,General Practice,GA,2025-12-22,9,10291.15,9,4,3,4,11,High Priority
+PHY00284,General Practice,IL,2025-12-21,9,10143.81,10,4,3,4,11,High Priority
+PHY00279,Cardiology,PA,2025-12-06,12,9809.91,25,3,4,4,11,High Priority
+PHY00500,Neurology,FL,2025-12-17,8,9655.71,14,4,3,4,11,High Priority
+PHY00104,Neurology,PA,2025-11-10,11,8549.57,51,3,4,4,11,High Priority
+PHY00353,Cardiology,IL,2025-11-22,11,8018.13,39,3,4,4,11,High Priority
+PHY00039,Cardiology,GA,2025-11-27,11,7547.16,34,3,4,4,11,High Priority
+PHY00077,Neurology,MI,2025-11-03,13,7480.75,58,3,4,4,11,High Priority
+PHY00480,Neurology,OH,2025-11-23,12,7451.93,38,3,4,4,11,High Priority
+PHY00153,Cardiology,NY,2025-10-31,11,7246.69,61,3,4,4,11,High Priority
+PHY00176,Rheumatology,IL,2025-11-16,12,7134.0,45,3,4,4,11,High Priority
+PHY00309,Psychiatry,GA,2025-11-06,14,6862.84,55,3,4,4,11,High Priority
+PHY00068,Cardiology,OH,2025-12-22,9,6811.76,9,4,3,4,11,High Priority
+PHY00322,Pulmonology,PA,2025-12-06,13,6699.12,25,3,4,4,11,High Priority
+PHY00278,Rheumatology,IL,2025-11-24,12,6683.75,37,3,4,4,11,High Priority
+PHY00218,Pulmonology,OH,2025-12-29,10,6608.87,2,4,3,4,11,High Priority
+PHY00249,Cardiology,FL,2025-11-21,13,6404.97,40,3,4,4,11,High Priority
+PHY00418,Oncology,CA,2025-12-03,11,6238.86,28,3,4,4,11,High Priority
+PHY00274,Psychiatry,NC,2025-11-15,10,6208.01,46,3,4,4,11,High Priority
+PHY00095,Rheumatology,CA,2025-12-21,10,6160.63,10,4,3,4,11,High Priority
+PHY00345,Endocrinology,TX,2025-11-20,10,5957.2,41,3,4,4,11,High Priority
+PHY00234,Neurology,PA,2025-12-01,12,5904.15,30,3,4,4,11,High Priority
+PHY00239,Endocrinology,TX,2025-11-07,11,5800.72,54,3,4,4,11,High Priority
+PHY00214,General Practice,FL,2025-12-21,10,5771.92,10,4,3,4,11,High Priority
+PHY00017,Neurology,MI,2025-12-28,10,5656.75,3,4,3,4,11,High Priority
+PHY00055,General Practice,MI,2025-12-27,9,5646.13,4,4,3,4,11,High Priority
+PHY00042,General Practice,TX,2025-12-02,11,5502.6,29,3,4,4,11,High Priority

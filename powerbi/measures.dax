@@ -1,0 +1,35 @@
+Total HCPs =
+DISTINCTCOUNT(hcp_segments[physician_id])
+
+High Priority HCPs =
+CALCULATE(
+    DISTINCTCOUNT(hcp_segments[physician_id]),
+    hcp_segments[segment] = "High Priority"
+)
+
+Medium Priority HCPs =
+CALCULATE(
+    DISTINCTCOUNT(hcp_segments[physician_id]),
+    hcp_segments[segment] = "Medium Priority"
+)
+
+Low Priority HCPs =
+CALCULATE(
+    DISTINCTCOUNT(hcp_segments[physician_id]),
+    hcp_segments[segment] = "Low Priority"
+)
+
+High Priority Share =
+DIVIDE([High Priority HCPs], [Total HCPs])
+
+Total Payment Value =
+SUM(hcp_segments[value])
+
+Average RFM Score =
+AVERAGE(hcp_segments[rfm_score])
+
+Average Recency Days =
+AVERAGE(hcp_segments[recency_days])
+
+Total Payment Frequency =
+SUM(hcp_segments[frequency])

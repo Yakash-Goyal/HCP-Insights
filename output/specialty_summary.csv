@@ -1,0 +1,9 @@
+physician_specialty,hcps,high_priority_hcps,total_value,avg_rfm_score,high_priority_share
+Cardiology,71,27,325269.72,7.76,0.38
+Neurology,76,30,311957.72,7.66,0.395
+Psychiatry,72,26,276089.63,7.4,0.361
+Rheumatology,62,25,260439.09,7.76,0.403
+General Practice,58,23,243234.56,7.43,0.397
+Endocrinology,64,20,239667.68,7.16,0.312
+Pulmonology,51,17,201020.97,7.61,0.333
+Oncology,46,14,156561.01,7.09,0.304

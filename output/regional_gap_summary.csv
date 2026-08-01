@@ -1,0 +1,11 @@
+physician_state,hcps,high_priority_hcps,total_value,avg_rfm_score,high_priority_share,regional_gap_flag
+IL,59,22,240662.55,7.24,0.373,True
+CA,59,20,226244.7,7.31,0.339,True
+NY,53,15,212273.73,7.08,0.283,True
+MI,68,29,261245.44,7.66,0.426,False
+OH,48,21,204080.32,7.92,0.438,False
+PA,45,20,200837.41,7.78,0.444,False
+GA,40,15,185177.02,8.05,0.375,False
+TX,44,13,167251.91,7.7,0.295,False
+NC,45,12,166590.08,7.2,0.267,False
+FL,39,15,149877.22,7.21,0.385,False

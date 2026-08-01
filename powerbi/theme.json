@@ -1,0 +1,42 @@
+{
+  "name": "HCP Insights Simple Theme",
+  "dataColors": [
+    "#1F77B4",
+    "#2CA02C",
+    "#FF7F0E",
+    "#D62728",
+    "#9467BD",
+    "#8C564B"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#222222",
+  "tableAccent": "#1F77B4",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontSize": 11,
+            "fontFamily": "Segoe UI",
+            "color": {
+              "solid": {
+                "color": "#222222"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "fontSize": 10,
+            "fontFamily": "Segoe UI",
+            "color": {
+              "solid": {
+                "color": "#333333"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

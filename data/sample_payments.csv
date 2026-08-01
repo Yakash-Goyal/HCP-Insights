@@ -1,433 +1,517 @@
 physician_id,physician_specialty,physician_state,payment_date,payment_amount,payment_type,paying_company
-PHY00025,Neurology,OH,2025-08-02,1226.25,Speaker Fee,BioGen Solutions
-PHY00228,Rheumatology,OH,2024-04-20,50.95,Royalty,NovaHealth Inc
-PHY00111,Psychiatry,MI,2025-01-03,22.0,Research Payment,NovaHealth Inc
-PHY00180,Endocrinology,CA,2024-10-08,880.9,Speaker Fee,BioGen Solutions
-PHY00440,Endocrinology,MI,2024-11-10,252.96,Consulting Fee,Acme Pharma
-PHY00150,Psychiatry,TX,2024-10-03,285.1,Royalty,NovaHealth Inc
-PHY00112,General Practice,IL,2025-05-30,637.13,Royalty,NovaHealth Inc
-PHY00369,Endocrinology,NY,2025-08-28,291.27,Royalty,BioGen Solutions
-PHY00062,General Practice,IL,2025-03-16,344.87,Speaker Fee,BioGen Solutions
-PHY00173,Endocrinology,NC,2024-10-26,2079.19,Research Payment,NovaHealth Inc
-PHY00410,Rheumatology,NY,2024-04-27,82.14,Meal,Acme Pharma
-PHY00140,Cardiology,NY,2025-07-12,526.55,Consulting Fee,NovaHealth Inc
-PHY00142,Cardiology,CA,2024-11-15,248.52,Meal,Acme Pharma
-PHY00491,Psychiatry,MI,2024-09-15,85.56,Consulting Fee,NovaHealth Inc
-PHY00178,Endocrinology,GA,2024-01-10,2687.62,Speaker Fee,Acme Pharma
-PHY00168,General Practice,TX,2025-10-03,2645.96,Meal,Acme Pharma
-PHY00319,General Practice,IL,2025-09-04,4306.38,Travel & Lodging,NovaHealth Inc
-PHY00095,Rheumatology,CA,2025-08-03,118.48,Royalty,MedCore Ltd
-PHY00236,Neurology,GA,2024-11-29,132.94,Consulting Fee,MedCore Ltd
-PHY00320,Rheumatology,FL,2025-07-25,55.14,Research Payment,MedCore Ltd
-PHY00267,Neurology,GA,2024-08-16,136.3,Research Payment,Acme Pharma
-PHY00005,Endocrinology,TX,2025-01-13,145.61,Royalty,NovaHealth Inc
-PHY00062,General Practice,IL,2024-05-11,654.78,Speaker Fee,MedCore Ltd
-PHY00328,General Practice,MI,2024-10-21,31.54,Royalty,MedCore Ltd
-PHY00179,Cardiology,NY,2025-09-28,864.29,Consulting Fee,Acme Pharma
-PHY00145,Psychiatry,NY,2024-08-12,88.92,Speaker Fee,NovaHealth Inc
-PHY00309,Psychiatry,GA,2025-09-07,327.15,Royalty,NovaHealth Inc
-PHY00067,Neurology,NY,2025-01-25,38.99,Travel & Lodging,MedCore Ltd
-PHY00042,General Practice,TX,2025-03-23,1895.03,Travel & Lodging,MedCore Ltd
-PHY00157,General Practice,GA,2025-07-03,235.38,Consulting Fee,Acme Pharma
-PHY00485,Pulmonology,PA,2025-02-14,1497.76,Travel & Lodging,NovaHealth Inc
-PHY00353,Cardiology,IL,2024-04-27,396.41,Royalty,Acme Pharma
-PHY00159,Cardiology,MI,2024-08-15,3672.54,Research Payment,MedCore Ltd
-PHY00261,Cardiology,NY,2024-06-05,79.81,Meal,MedCore Ltd
-PHY00173,Endocrinology,NC,2024-05-09,252.83,Meal,MedCore Ltd
-PHY00282,Neurology,PA,2024-10-09,208.07,Research Payment,MedCore Ltd
-PHY00011,Endocrinology,GA,2024-09-10,300.28,Speaker Fee,NovaHealth Inc
-PHY00363,Cardiology,MI,2025-01-30,666.93,Speaker Fee,Acme Pharma
-PHY00104,Neurology,PA,2024-07-28,191.83,Meal,BioGen Solutions
-PHY00460,Endocrinology,NC,2024-12-21,258.86,Meal,Acme Pharma
-PHY00376,Neurology,OH,2024-05-06,330.4,Speaker Fee,Acme Pharma
-PHY00051,General Practice,MI,2024-01-29,62.32,Royalty,MedCore Ltd
-PHY00297,Rheumatology,NY,2025-12-26,115.25,Meal,NovaHealth Inc
-PHY00471,Pulmonology,GA,2024-01-01,135.03,Royalty,BioGen Solutions
-PHY00371,Neurology,CA,2025-10-22,1308.45,Speaker Fee,MedCore Ltd
-PHY00313,Neurology,NC,2024-04-26,106.86,Speaker Fee,Acme Pharma
-PHY00291,Cardiology,NC,2025-07-28,864.49,Royalty,NovaHealth Inc
-PHY00391,Endocrinology,IL,2024-07-28,181.85,Travel & Lodging,NovaHealth Inc
-PHY00347,Endocrinology,NY,2025-06-12,143.71,Travel & Lodging,BioGen Solutions
-PHY00182,General Practice,FL,2025-10-25,270.21,Consulting Fee,BioGen Solutions
-PHY00180,Endocrinology,CA,2025-12-10,103.34,Speaker Fee,MedCore Ltd
-PHY00370,General Practice,FL,2025-04-13,725.65,Consulting Fee,BioGen Solutions
-PHY00337,Pulmonology,TX,2024-03-24,3759.28,Royalty,MedCore Ltd
-PHY00063,Pulmonology,OH,2025-12-01,34.63,Consulting Fee,BioGen Solutions
-PHY00257,General Practice,PA,2024-05-20,47.69,Travel & Lodging,NovaHealth Inc
-PHY00032,Cardiology,GA,2025-10-31,24.69,Research Payment,Acme Pharma
-PHY00429,Cardiology,OH,2025-04-21,5344.98,Speaker Fee,Acme Pharma
-PHY00078,Neurology,OH,2025-01-05,64.81,Speaker Fee,NovaHealth Inc
-PHY00476,Psychiatry,TX,2024-04-22,1091.49,Meal,Acme Pharma
-PHY00264,Cardiology,TX,2024-02-24,20.33,Travel & Lodging,MedCore Ltd
-PHY00266,Oncology,FL,2025-04-02,264.11,Consulting Fee,BioGen Solutions
-PHY00055,General Practice,MI,2025-04-20,766.49,Speaker Fee,BioGen Solutions
-PHY00349,Psychiatry,IL,2024-01-08,581.73,Research Payment,MedCore Ltd
-PHY00054,Neurology,FL,2024-08-26,63.13,Research Payment,BioGen Solutions
-PHY00051,General Practice,MI,2025-08-31,1919.83,Travel & Lodging,MedCore Ltd
-PHY00088,Cardiology,MI,2024-03-18,415.37,Royalty,BioGen Solutions
-PHY00400,Cardiology,TX,2025-03-27,32.08,Speaker Fee,BioGen Solutions
-PHY00330,Psychiatry,TX,2025-11-03,83.04,Research Payment,BioGen Solutions
-PHY00112,General Practice,IL,2025-01-15,363.72,Speaker Fee,NovaHealth Inc
-PHY00385,Pulmonology,PA,2025-12-09,695.07,Meal,BioGen Solutions
-PHY00234,Neurology,PA,2025-01-20,164.81,Meal,Acme Pharma
-PHY00293,Cardiology,CA,2024-09-12,217.85,Royalty,Acme Pharma
-PHY00226,Oncology,IL,2024-02-22,315.2,Royalty,MedCore Ltd
-PHY00280,Oncology,MI,2025-08-15,217.88,Speaker Fee,NovaHealth Inc
-PHY00120,Pulmonology,PA,2024-02-28,280.64,Consulting Fee,NovaHealth Inc
-PHY00115,General Practice,CA,2024-07-27,293.06,Royalty,Acme Pharma
-PHY00040,Endocrinology,NY,2024-08-24,47.94,Royalty,BioGen Solutions
-PHY00494,Rheumatology,CA,2024-01-04,139.31,Speaker Fee,NovaHealth Inc
-PHY00029,Psychiatry,NY,2024-04-18,919.32,Royalty,NovaHealth Inc
-PHY00128,Cardiology,MI,2024-02-11,974.29,Meal,Acme Pharma
-PHY00422,Oncology,TX,2024-02-03,2715.38,Speaker Fee,MedCore Ltd
-PHY00087,Rheumatology,MI,2025-09-20,578.89,Speaker Fee,NovaHealth Inc
-PHY00469,Pulmonology,NY,2024-01-27,1710.67,Consulting Fee,Acme Pharma
-PHY00455,Pulmonology,CA,2025-11-15,1610.97,Consulting Fee,NovaHealth Inc
-PHY00469,Pulmonology,NY,2025-04-20,148.05,Speaker Fee,MedCore Ltd
-PHY00310,Rheumatology,MI,2024-12-28,1402.36,Consulting Fee,BioGen Solutions
-PHY00181,Pulmonology,NY,2024-10-18,186.79,Meal,Acme Pharma
-PHY00187,Oncology,OH,2024-08-14,1042.22,Royalty,NovaHealth Inc
-PHY00055,General Practice,MI,2025-09-14,29.79,Meal,BioGen Solutions
-PHY00227,Pulmonology,NY,2024-08-31,210.89,Travel & Lodging,Acme Pharma
-PHY00446,Endocrinology,MI,2025-05-21,32.22,Speaker Fee,NovaHealth Inc
-PHY00073,Cardiology,NY,2025-12-13,799.95,Consulting Fee,Acme Pharma
-PHY00217,Neurology,IL,2024-03-01,115.31,Travel & Lodging,BioGen Solutions
-PHY00498,Neurology,NC,2024-08-16,2153.69,Meal,MedCore Ltd
-PHY00435,Neurology,GA,2025-04-22,798.61,Consulting Fee,Acme Pharma
-PHY00017,Neurology,MI,2024-11-25,119.9,Consulting Fee,BioGen Solutions
-PHY00497,Endocrinology,MI,2024-01-12,877.86,Research Payment,Acme Pharma
-PHY00215,Endocrinology,IL,2025-04-29,282.46,Royalty,MedCore Ltd
-PHY00198,Neurology,NC,2024-07-18,224.93,Travel & Lodging,NovaHealth Inc
-PHY00489,Cardiology,OH,2025-06-21,33.34,Speaker Fee,MedCore Ltd
-PHY00199,Pulmonology,PA,2025-02-04,338.96,Speaker Fee,BioGen Solutions
-PHY00270,Endocrinology,CA,2024-11-30,52.87,Research Payment,BioGen Solutions
-PHY00137,Cardiology,FL,2025-11-18,193.41,Research Payment,NovaHealth Inc
-PHY00223,Rheumatology,MI,2025-01-06,76.97,Travel & Lodging,NovaHealth Inc
-PHY00443,Cardiology,IL,2025-05-04,1233.27,Travel & Lodging,MedCore Ltd
-PHY00188,General Practice,IL,2024-04-07,1160.83,Travel & Lodging,Acme Pharma
-PHY00171,Psychiatry,NC,2024-07-01,1384.38,Consulting Fee,MedCore Ltd
-PHY00349,Psychiatry,IL,2025-01-31,24.89,Speaker Fee,Acme Pharma
-PHY00016,Pulmonology,TX,2025-05-07,48.46,Travel & Lodging,NovaHealth Inc
-PHY00034,Oncology,OH,2025-02-17,494.03,Travel & Lodging,BioGen Solutions
-PHY00269,General Practice,OH,2024-05-20,527.99,Travel & Lodging,BioGen Solutions
-PHY00302,Cardiology,PA,2024-01-29,199.08,Royalty,Acme Pharma
-PHY00477,Cardiology,MI,2024-11-13,3860.99,Meal,BioGen Solutions
-PHY00377,Neurology,MI,2024-09-22,158.32,Royalty,Acme Pharma
-PHY00359,Cardiology,IL,2024-12-05,85.87,Travel & Lodging,Acme Pharma
-PHY00142,Cardiology,CA,2025-01-10,634.22,Royalty,NovaHealth Inc
-PHY00324,Oncology,NY,2024-05-25,24.04,Meal,MedCore Ltd
-PHY00187,Oncology,OH,2024-03-01,57.46,Research Payment,BioGen Solutions
-PHY00380,Cardiology,PA,2025-12-10,663.71,Speaker Fee,Acme Pharma
-PHY00199,Pulmonology,PA,2025-07-17,313.92,Meal,BioGen Solutions
-PHY00072,Oncology,MI,2025-10-21,138.15,Travel & Lodging,Acme Pharma
-PHY00366,General Practice,IL,2024-11-25,501.08,Travel & Lodging,NovaHealth Inc
-PHY00313,Neurology,NC,2024-08-05,429.35,Royalty,BioGen Solutions
-PHY00215,Endocrinology,IL,2025-11-19,450.26,Consulting Fee,BioGen Solutions
-PHY00020,Endocrinology,CA,2025-07-26,278.77,Speaker Fee,NovaHealth Inc
-PHY00145,Psychiatry,NY,2024-08-03,31.48,Travel & Lodging,MedCore Ltd
-PHY00227,Pulmonology,NY,2024-04-29,16.53,Travel & Lodging,MedCore Ltd
-PHY00029,Psychiatry,NY,2025-10-10,85.28,Travel & Lodging,Acme Pharma
-PHY00226,Oncology,IL,2024-11-27,225.24,Consulting Fee,Acme Pharma
-PHY00395,Endocrinology,PA,2024-08-13,195.37,Meal,BioGen Solutions
-PHY00038,Cardiology,CA,2024-11-23,184.46,Speaker Fee,NovaHealth Inc
-PHY00037,Neurology,FL,2024-11-11,276.6,Research Payment,MedCore Ltd
-PHY00453,Rheumatology,MI,2025-08-15,727.05,Travel & Lodging,MedCore Ltd
-PHY00040,Endocrinology,NY,2024-02-09,255.46,Travel & Lodging,Acme Pharma
-PHY00237,Rheumatology,MI,2024-10-15,326.37,Meal,Acme Pharma
-PHY00059,Endocrinology,CA,2025-07-24,353.07,Consulting Fee,Acme Pharma
-PHY00363,Cardiology,MI,2025-07-10,880.08,Travel & Lodging,NovaHealth Inc
-PHY00188,General Practice,IL,2024-01-07,995.41,Research Payment,BioGen Solutions
-PHY00045,Neurology,PA,2024-01-31,200.23,Travel & Lodging,Acme Pharma
-PHY00158,Oncology,MI,2025-07-04,291.8,Speaker Fee,MedCore Ltd
-PHY00258,Rheumatology,OH,2025-12-18,92.49,Speaker Fee,MedCore Ltd
-PHY00013,Endocrinology,TX,2024-02-15,688.64,Travel & Lodging,Acme Pharma
-PHY00233,Neurology,CA,2024-01-17,174.21,Research Payment,BioGen Solutions
-PHY00496,General Practice,PA,2024-11-21,84.91,Travel & Lodging,NovaHealth Inc
-PHY00455,Pulmonology,CA,2025-08-08,1016.04,Meal,MedCore Ltd
-PHY00335,Rheumatology,PA,2024-08-09,184.27,Research Payment,Acme Pharma
-PHY00278,Rheumatology,IL,2024-07-14,455.94,Meal,BioGen Solutions
-PHY00192,Endocrinology,NC,2024-01-17,115.62,Meal,NovaHealth Inc
-PHY00401,Psychiatry,NY,2025-12-05,121.04,Travel & Lodging,BioGen Solutions
-PHY00436,Psychiatry,NC,2025-01-15,2423.49,Meal,BioGen Solutions
-PHY00029,Psychiatry,NY,2024-02-02,209.09,Travel & Lodging,BioGen Solutions
-PHY00058,Cardiology,IL,2025-06-21,21.28,Speaker Fee,NovaHealth Inc
-PHY00226,Oncology,IL,2024-10-11,272.26,Research Payment,Acme Pharma
-PHY00075,Pulmonology,GA,2024-05-09,991.38,Royalty,MedCore Ltd
-PHY00022,Pulmonology,CA,2025-04-03,187.37,Research Payment,BioGen Solutions
-PHY00464,Cardiology,MI,2024-03-24,61.78,Royalty,BioGen Solutions
-PHY00441,Cardiology,NY,2025-03-28,231.67,Meal,NovaHealth Inc
-PHY00015,Psychiatry,OH,2024-06-10,327.67,Research Payment,BioGen Solutions
-PHY00320,Rheumatology,FL,2025-06-07,60.59,Travel & Lodging,MedCore Ltd
-PHY00060,Pulmonology,GA,2025-03-05,5307.46,Consulting Fee,Acme Pharma
-PHY00093,Oncology,GA,2024-11-04,202.27,Speaker Fee,MedCore Ltd
-PHY00199,Pulmonology,PA,2025-01-21,58.91,Research Payment,MedCore Ltd
-PHY00428,Neurology,OH,2025-11-23,201.55,Royalty,NovaHealth Inc
-PHY00455,Pulmonology,CA,2024-09-29,48.93,Royalty,MedCore Ltd
-PHY00340,Neurology,MI,2025-06-04,233.18,Royalty,NovaHealth Inc
-PHY00117,Cardiology,OH,2025-01-20,43.95,Travel & Lodging,MedCore Ltd
-PHY00205,Neurology,NC,2025-12-21,142.2,Royalty,MedCore Ltd
-PHY00011,Endocrinology,GA,2024-10-27,13.35,Consulting Fee,Acme Pharma
-PHY00102,Oncology,NY,2025-02-28,237.69,Consulting Fee,Acme Pharma
-PHY00076,Oncology,NY,2024-02-15,123.32,Royalty,NovaHealth Inc
-PHY00092,Neurology,NC,2025-10-21,1012.42,Speaker Fee,MedCore Ltd
-PHY00353,Cardiology,IL,2024-01-02,110.74,Consulting Fee,Acme Pharma
-PHY00233,Neurology,CA,2025-08-11,197.39,Speaker Fee,NovaHealth Inc
-PHY00359,Cardiology,IL,2024-03-30,101.67,Royalty,NovaHealth Inc
-PHY00498,Neurology,NC,2024-05-22,135.35,Consulting Fee,MedCore Ltd
-PHY00459,Endocrinology,NC,2024-11-12,143.45,Travel & Lodging,BioGen Solutions
-PHY00390,Cardiology,IL,2024-01-09,2152.48,Speaker Fee,MedCore Ltd
-PHY00318,Cardiology,CA,2024-03-24,375.97,Royalty,BioGen Solutions
-PHY00251,Rheumatology,OH,2025-01-17,1189.01,Speaker Fee,BioGen Solutions
-PHY00003,Pulmonology,CA,2024-05-06,310.17,Consulting Fee,MedCore Ltd
-PHY00362,Cardiology,MI,2024-01-14,111.98,Research Payment,BioGen Solutions
-PHY00122,Pulmonology,FL,2024-05-26,136.91,Royalty,MedCore Ltd
-PHY00173,Endocrinology,NC,2025-09-22,124.51,Meal,NovaHealth Inc
-PHY00454,Rheumatology,TX,2025-12-23,221.8,Royalty,Acme Pharma
-PHY00352,Cardiology,CA,2024-11-07,256.11,Speaker Fee,BioGen Solutions
-PHY00035,Rheumatology,NC,2025-03-20,282.6,Research Payment,NovaHealth Inc
-PHY00447,Endocrinology,PA,2024-07-25,179.67,Royalty,Acme Pharma
-PHY00159,Cardiology,MI,2024-01-24,33.04,Meal,Acme Pharma
-PHY00004,General Practice,NY,2024-12-29,253.23,Speaker Fee,Acme Pharma
-PHY00435,Neurology,GA,2025-08-30,1629.91,Consulting Fee,MedCore Ltd
-PHY00250,Endocrinology,CA,2024-04-26,1607.52,Speaker Fee,MedCore Ltd
-PHY00262,Rheumatology,OH,2024-10-21,38.39,Speaker Fee,BioGen Solutions
-PHY00371,Neurology,CA,2024-07-04,1439.21,Consulting Fee,BioGen Solutions
-PHY00282,Neurology,PA,2025-06-03,1281.91,Meal,MedCore Ltd
-PHY00478,Psychiatry,GA,2025-08-21,46.4,Speaker Fee,BioGen Solutions
-PHY00293,Cardiology,CA,2025-07-06,1384.61,Royalty,NovaHealth Inc
-PHY00316,Psychiatry,CA,2025-01-15,617.72,Consulting Fee,MedCore Ltd
-PHY00130,Neurology,GA,2024-05-24,8.02,Travel & Lodging,Acme Pharma
-PHY00028,Oncology,MI,2024-03-06,1920.07,Meal,Acme Pharma
-PHY00407,Rheumatology,GA,2024-10-29,1548.64,Travel & Lodging,NovaHealth Inc
-PHY00195,General Practice,CA,2025-09-21,268.32,Speaker Fee,MedCore Ltd
-PHY00350,General Practice,OH,2024-12-26,52.48,Consulting Fee,Acme Pharma
-PHY00276,Neurology,CA,2025-11-13,51.63,Travel & Lodging,Acme Pharma
-PHY00175,Psychiatry,MI,2024-07-22,39.84,Research Payment,Acme Pharma
-PHY00497,Endocrinology,MI,2025-09-23,378.11,Royalty,MedCore Ltd
-PHY00251,Rheumatology,OH,2024-11-29,1162.68,Speaker Fee,Acme Pharma
-PHY00293,Cardiology,CA,2024-01-20,292.66,Travel & Lodging,NovaHealth Inc
-PHY00485,Pulmonology,PA,2024-02-28,137.94,Research Payment,Acme Pharma
-PHY00497,Endocrinology,MI,2025-11-21,734.8,Travel & Lodging,NovaHealth Inc
-PHY00407,Rheumatology,GA,2025-03-03,370.85,Royalty,MedCore Ltd
-PHY00151,Endocrinology,NY,2025-01-18,264.18,Speaker Fee,Acme Pharma
-PHY00129,Neurology,CA,2025-10-30,282.79,Royalty,Acme Pharma
-PHY00495,Pulmonology,OH,2024-03-26,643.06,Speaker Fee,BioGen Solutions
-PHY00458,Psychiatry,MI,2025-02-17,56.67,Speaker Fee,NovaHealth Inc
-PHY00145,Psychiatry,NY,2025-06-21,311.47,Meal,BioGen Solutions
-PHY00328,General Practice,MI,2024-12-10,863.32,Royalty,MedCore Ltd
-PHY00289,Cardiology,NC,2024-01-01,526.62,Research Payment,MedCore Ltd
-PHY00069,Neurology,GA,2024-12-26,62.08,Speaker Fee,NovaHealth Inc
-PHY00220,General Practice,OH,2025-12-04,817.43,Consulting Fee,Acme Pharma
-PHY00077,Neurology,MI,2024-06-07,180.76,Consulting Fee,BioGen Solutions
-PHY00324,Oncology,NY,2025-09-01,32.4,Royalty,BioGen Solutions
-PHY00454,Rheumatology,TX,2025-04-26,79.8,Speaker Fee,Acme Pharma
-PHY00489,Cardiology,OH,2024-10-05,1150.22,Royalty,NovaHealth Inc
-PHY00455,Pulmonology,CA,2025-08-23,178.81,Research Payment,BioGen Solutions
-PHY00065,General Practice,PA,2024-03-16,998.14,Travel & Lodging,MedCore Ltd
-PHY00093,Oncology,GA,2025-04-17,2790.65,Consulting Fee,Acme Pharma
-PHY00224,Neurology,OH,2025-05-11,170.1,Travel & Lodging,BioGen Solutions
-PHY00456,Endocrinology,MI,2025-09-13,234.71,Royalty,NovaHealth Inc
-PHY00450,Rheumatology,CA,2024-01-03,516.4,Speaker Fee,NovaHealth Inc
-PHY00412,Psychiatry,IL,2025-09-20,262.46,Research Payment,NovaHealth Inc
-PHY00153,Cardiology,NY,2024-01-12,272.47,Meal,MedCore Ltd
-PHY00271,Rheumatology,NY,2024-02-12,59.28,Royalty,NovaHealth Inc
-PHY00498,Neurology,NC,2024-12-29,608.33,Consulting Fee,MedCore Ltd
-PHY00203,General Practice,NC,2024-02-20,342.9,Meal,Acme Pharma
-PHY00141,Psychiatry,CA,2025-04-14,139.75,Meal,MedCore Ltd
-PHY00373,Oncology,GA,2025-07-17,146.53,Royalty,BioGen Solutions
-PHY00157,General Practice,GA,2024-06-04,24.67,Meal,NovaHealth Inc
-PHY00146,General Practice,CA,2024-01-02,393.94,Consulting Fee,Acme Pharma
-PHY00132,Pulmonology,FL,2024-03-30,208.28,Meal,NovaHealth Inc
-PHY00039,Cardiology,GA,2024-06-07,202.13,Consulting Fee,NovaHealth Inc
-PHY00445,Neurology,TX,2024-10-24,205.9,Royalty,BioGen Solutions
-PHY00310,Rheumatology,MI,2025-01-19,636.16,Meal,MedCore Ltd
-PHY00173,Endocrinology,NC,2024-12-27,329.31,Meal,Acme Pharma
-PHY00026,Rheumatology,MI,2025-06-04,3642.94,Speaker Fee,MedCore Ltd
-PHY00378,Cardiology,MI,2025-09-24,55.0,Research Payment,MedCore Ltd
-PHY00050,Rheumatology,MI,2025-10-25,106.54,Travel & Lodging,MedCore Ltd
-PHY00060,Pulmonology,GA,2024-06-15,109.05,Meal,NovaHealth Inc
-PHY00481,Neurology,NY,2025-03-14,341.99,Speaker Fee,Acme Pharma
-PHY00175,Psychiatry,MI,2025-07-14,523.5,Research Payment,Acme Pharma
-PHY00150,Psychiatry,TX,2025-03-07,402.04,Research Payment,BioGen Solutions
-PHY00419,Psychiatry,FL,2025-03-30,38.69,Royalty,Acme Pharma
-PHY00441,Cardiology,NY,2024-09-10,337.41,Consulting Fee,NovaHealth Inc
-PHY00320,Rheumatology,FL,2024-09-19,93.28,Royalty,Acme Pharma
-PHY00167,Psychiatry,IL,2025-04-03,1749.25,Meal,NovaHealth Inc
-PHY00019,Psychiatry,MI,2025-08-02,484.34,Research Payment,NovaHealth Inc
-PHY00036,Pulmonology,FL,2024-12-18,1726.89,Meal,BioGen Solutions
-PHY00073,Cardiology,NY,2025-10-09,43.61,Meal,Acme Pharma
-PHY00049,Rheumatology,PA,2025-10-03,56.45,Meal,Acme Pharma
-PHY00428,Neurology,OH,2025-06-22,48.69,Speaker Fee,BioGen Solutions
-PHY00300,Psychiatry,MI,2025-01-15,657.75,Speaker Fee,BioGen Solutions
-PHY00342,Neurology,PA,2024-05-09,1820.9,Royalty,MedCore Ltd
-PHY00264,Cardiology,TX,2025-10-23,404.57,Meal,NovaHealth Inc
-PHY00036,Pulmonology,FL,2025-03-28,467.08,Consulting Fee,BioGen Solutions
-PHY00208,Neurology,NY,2025-09-09,81.06,Royalty,NovaHealth Inc
-PHY00121,Psychiatry,IL,2024-02-24,101.23,Meal,MedCore Ltd
-PHY00468,Cardiology,CA,2025-05-29,1078.48,Royalty,Acme Pharma
-PHY00279,Cardiology,PA,2024-12-13,691.17,Consulting Fee,Acme Pharma
-PHY00286,Endocrinology,NY,2024-05-28,612.11,Meal,NovaHealth Inc
-PHY00406,Neurology,CA,2025-03-31,129.94,Meal,NovaHealth Inc
-PHY00500,Neurology,FL,2025-05-23,377.67,Royalty,MedCore Ltd
-PHY00481,Neurology,NY,2025-10-24,95.28,Research Payment,NovaHealth Inc
-PHY00475,Endocrinology,GA,2025-03-24,49.53,Travel & Lodging,BioGen Solutions
-PHY00180,Endocrinology,CA,2025-12-02,3251.57,Royalty,BioGen Solutions
-PHY00406,Neurology,CA,2024-05-22,62.94,Royalty,MedCore Ltd
-PHY00101,General Practice,MI,2024-08-31,269.94,Travel & Lodging,NovaHealth Inc
-PHY00216,Pulmonology,FL,2025-10-31,217.31,Royalty,NovaHealth Inc
-PHY00067,Neurology,NY,2024-01-07,133.15,Research Payment,BioGen Solutions
-PHY00066,Oncology,FL,2024-05-09,184.26,Travel & Lodging,NovaHealth Inc
-PHY00206,Pulmonology,OH,2024-09-22,186.76,Royalty,Acme Pharma
-PHY00164,Neurology,OH,2024-04-04,310.16,Royalty,Acme Pharma
-PHY00110,General Practice,MI,2024-12-01,112.11,Travel & Lodging,BioGen Solutions
-PHY00425,Psychiatry,TX,2024-01-25,462.03,Research Payment,Acme Pharma
-PHY00482,Rheumatology,OH,2025-01-26,765.83,Meal,Acme Pharma
-PHY00444,Psychiatry,IL,2024-01-12,4.19,Meal,Acme Pharma
-PHY00031,Pulmonology,NC,2025-06-15,79.27,Royalty,MedCore Ltd
-PHY00349,Psychiatry,IL,2024-02-12,205.84,Royalty,NovaHealth Inc
-PHY00060,Pulmonology,GA,2025-10-24,189.4,Speaker Fee,NovaHealth Inc
-PHY00267,Neurology,GA,2025-11-20,1463.92,Research Payment,BioGen Solutions
-PHY00056,Neurology,PA,2025-04-07,117.2,Meal,Acme Pharma
-PHY00260,Endocrinology,MI,2025-09-06,170.21,Consulting Fee,Acme Pharma
-PHY00359,Cardiology,IL,2025-01-14,764.69,Meal,NovaHealth Inc
-PHY00231,Rheumatology,MI,2025-11-20,41.19,Research Payment,MedCore Ltd
-PHY00191,General Practice,OH,2025-07-27,53.12,Travel & Lodging,MedCore Ltd
-PHY00470,Neurology,FL,2025-06-09,1229.65,Research Payment,Acme Pharma
-PHY00086,Endocrinology,CA,2025-10-06,236.07,Travel & Lodging,Acme Pharma
-PHY00246,Rheumatology,GA,2025-08-13,198.51,Research Payment,NovaHealth Inc
-PHY00471,Pulmonology,GA,2025-02-26,38.89,Speaker Fee,NovaHealth Inc
-PHY00493,Cardiology,NC,2024-07-31,845.18,Research Payment,NovaHealth Inc
-PHY00485,Pulmonology,PA,2024-06-21,211.28,Consulting Fee,MedCore Ltd
-PHY00395,Endocrinology,PA,2025-12-03,145.16,Research Payment,MedCore Ltd
-PHY00256,Endocrinology,NY,2024-07-01,153.31,Speaker Fee,MedCore Ltd
-PHY00227,Pulmonology,NY,2025-03-11,475.61,Research Payment,NovaHealth Inc
-PHY00042,General Practice,TX,2024-01-21,347.14,Consulting Fee,Acme Pharma
-PHY00130,Neurology,GA,2025-07-25,101.82,Research Payment,Acme Pharma
-PHY00010,Oncology,NY,2024-08-29,3257.68,Speaker Fee,MedCore Ltd
-PHY00443,Cardiology,IL,2025-12-26,118.29,Consulting Fee,BioGen Solutions
-PHY00401,Psychiatry,NY,2024-06-21,424.95,Consulting Fee,BioGen Solutions
-PHY00101,General Practice,MI,2024-01-08,108.5,Research Payment,MedCore Ltd
-PHY00087,Rheumatology,MI,2024-02-12,908.4,Travel & Lodging,MedCore Ltd
-PHY00017,Neurology,MI,2025-10-06,488.06,Meal,Acme Pharma
-PHY00232,Neurology,MI,2024-12-31,67.22,Research Payment,NovaHealth Inc
-PHY00352,Cardiology,CA,2025-06-03,28.95,Speaker Fee,NovaHealth Inc
-PHY00111,Psychiatry,MI,2025-01-02,507.02,Speaker Fee,BioGen Solutions
-PHY00434,Psychiatry,FL,2025-07-14,1180.14,Meal,NovaHealth Inc
-PHY00324,Oncology,NY,2025-08-12,776.38,Speaker Fee,Acme Pharma
-PHY00164,Neurology,OH,2025-10-13,229.65,Travel & Lodging,MedCore Ltd
-PHY00258,Rheumatology,OH,2025-01-08,663.78,Meal,NovaHealth Inc
-PHY00011,Endocrinology,GA,2025-06-05,236.7,Consulting Fee,MedCore Ltd
-PHY00402,Neurology,TX,2024-07-01,183.78,Royalty,MedCore Ltd
-PHY00473,Endocrinology,MI,2025-09-17,96.08,Royalty,MedCore Ltd
-PHY00414,Cardiology,MI,2025-12-25,231.58,Consulting Fee,MedCore Ltd
-PHY00405,Psychiatry,PA,2024-05-01,2840.06,Royalty,BioGen Solutions
-PHY00039,Cardiology,GA,2025-05-11,351.71,Research Payment,Acme Pharma
-PHY00149,Cardiology,MI,2025-09-29,33.41,Royalty,MedCore Ltd
-PHY00238,Rheumatology,NC,2025-10-08,943.65,Consulting Fee,NovaHealth Inc
-PHY00348,Neurology,CA,2025-04-10,93.76,Speaker Fee,Acme Pharma
-PHY00213,Pulmonology,NC,2025-04-07,58.25,Meal,Acme Pharma
-PHY00278,Rheumatology,IL,2025-11-13,233.3,Research Payment,Acme Pharma
-PHY00353,Cardiology,IL,2025-11-26,87.3,Research Payment,NovaHealth Inc
-PHY00295,Oncology,PA,2024-04-17,327.92,Consulting Fee,MedCore Ltd
-PHY00229,Cardiology,TX,2024-04-20,313.41,Consulting Fee,MedCore Ltd
-PHY00261,Cardiology,NY,2025-05-29,57.62,Consulting Fee,MedCore Ltd
-PHY00104,Neurology,PA,2025-04-27,1147.77,Travel & Lodging,Acme Pharma
-PHY00010,Oncology,NY,2025-02-08,147.32,Royalty,BioGen Solutions
-PHY00219,Psychiatry,NC,2024-03-06,1028.6,Meal,MedCore Ltd
-PHY00086,Endocrinology,CA,2024-08-21,117.71,Speaker Fee,NovaHealth Inc
-PHY00054,Neurology,FL,2024-01-12,95.4,Speaker Fee,Acme Pharma
-PHY00377,Neurology,MI,2024-01-20,532.69,Travel & Lodging,MedCore Ltd
-PHY00243,Neurology,IL,2024-03-10,91.78,Meal,NovaHealth Inc
-PHY00024,Psychiatry,PA,2024-08-14,19.83,Speaker Fee,Acme Pharma
-PHY00230,Pulmonology,NC,2025-04-13,148.5,Consulting Fee,BioGen Solutions
-PHY00071,Oncology,TX,2025-05-30,59.33,Research Payment,NovaHealth Inc
-PHY00003,Pulmonology,CA,2025-12-28,187.98,Meal,MedCore Ltd
-PHY00376,Neurology,OH,2025-06-19,167.3,Speaker Fee,NovaHealth Inc
-PHY00082,Neurology,IL,2024-06-07,74.38,Research Payment,MedCore Ltd
-PHY00030,Neurology,TX,2024-11-09,388.8,Royalty,Acme Pharma
-PHY00415,Endocrinology,GA,2025-12-04,15.41,Royalty,BioGen Solutions
-PHY00113,Psychiatry,OH,2024-07-01,381.26,Consulting Fee,NovaHealth Inc
-PHY00319,General Practice,IL,2025-09-19,618.76,Royalty,Acme Pharma
-PHY00161,General Practice,TX,2025-02-04,705.33,Royalty,MedCore Ltd
-PHY00148,Endocrinology,GA,2024-02-16,186.46,Royalty,MedCore Ltd
-PHY00075,Pulmonology,GA,2024-05-16,77.38,Speaker Fee,MedCore Ltd
-PHY00325,Rheumatology,IL,2025-05-19,375.18,Travel & Lodging,Acme Pharma
-PHY00107,Rheumatology,CA,2025-09-16,259.41,Royalty,NovaHealth Inc
-PHY00118,Rheumatology,MI,2025-12-10,25.15,Research Payment,BioGen Solutions
-PHY00426,Pulmonology,NY,2025-06-30,300.17,Royalty,NovaHealth Inc
-PHY00499,Cardiology,CA,2025-08-03,157.18,Consulting Fee,Acme Pharma
-PHY00074,Oncology,CA,2025-12-04,396.28,Research Payment,MedCore Ltd
-PHY00070,Rheumatology,FL,2025-08-24,313.19,Speaker Fee,BioGen Solutions
-PHY00129,Neurology,CA,2024-11-08,155.38,Meal,NovaHealth Inc
-PHY00297,Rheumatology,NY,2024-06-30,140.16,Consulting Fee,BioGen Solutions
-PHY00084,Psychiatry,NC,2025-10-25,161.53,Consulting Fee,MedCore Ltd
-PHY00213,Pulmonology,NC,2025-02-11,216.98,Meal,BioGen Solutions
-PHY00163,Psychiatry,NC,2024-08-07,191.63,Royalty,MedCore Ltd
-PHY00394,Psychiatry,OH,2025-02-03,169.93,Research Payment,NovaHealth Inc
-PHY00044,Psychiatry,OH,2024-08-15,1606.36,Travel & Lodging,MedCore Ltd
-PHY00338,Endocrinology,CA,2024-09-06,23.63,Speaker Fee,Acme Pharma
-PHY00475,Endocrinology,GA,2025-06-02,626.7,Royalty,BioGen Solutions
-PHY00399,Psychiatry,TX,2025-11-02,329.14,Research Payment,NovaHealth Inc
-PHY00154,Endocrinology,OH,2025-05-06,271.73,Royalty,Acme Pharma
-PHY00165,Oncology,FL,2024-11-09,89.54,Consulting Fee,BioGen Solutions
-PHY00371,Neurology,CA,2025-01-18,509.27,Meal,Acme Pharma
-PHY00445,Neurology,TX,2025-02-28,91.13,Royalty,BioGen Solutions
-PHY00289,Cardiology,NC,2025-08-15,200.94,Research Payment,Acme Pharma
-PHY00354,Psychiatry,IL,2024-01-28,171.63,Royalty,Acme Pharma
-PHY00017,Neurology,MI,2025-09-01,293.76,Royalty,NovaHealth Inc
-PHY00198,Neurology,NC,2025-09-01,53.54,Speaker Fee,NovaHealth Inc
-PHY00112,General Practice,IL,2024-02-26,228.24,Speaker Fee,NovaHealth Inc
-PHY00098,Neurology,PA,2024-05-23,2046.39,Royalty,MedCore Ltd
-PHY00344,Oncology,CA,2024-10-20,70.72,Meal,BioGen Solutions
-PHY00138,Cardiology,GA,2025-09-02,112.71,Meal,NovaHealth Inc
-PHY00383,Neurology,TX,2024-03-08,93.78,Royalty,MedCore Ltd
-PHY00214,General Practice,FL,2025-10-16,360.57,Royalty,MedCore Ltd
-PHY00092,Neurology,NC,2025-01-15,180.76,Consulting Fee,MedCore Ltd
-PHY00058,Cardiology,IL,2024-01-26,2195.82,Royalty,BioGen Solutions
-PHY00456,Endocrinology,MI,2024-02-13,2759.37,Consulting Fee,NovaHealth Inc
-PHY00500,Neurology,FL,2024-08-14,350.2,Consulting Fee,BioGen Solutions
-PHY00178,Endocrinology,GA,2025-03-02,99.27,Travel & Lodging,Acme Pharma
-PHY00307,Neurology,FL,2025-05-18,1124.12,Research Payment,Acme Pharma
-PHY00072,Oncology,MI,2025-07-20,104.71,Consulting Fee,BioGen Solutions
-PHY00399,Psychiatry,TX,2024-08-25,56.66,Meal,NovaHealth Inc
-PHY00268,Psychiatry,NC,2025-01-20,281.82,Travel & Lodging,Acme Pharma
-PHY00259,Psychiatry,MI,2024-10-09,163.74,Research Payment,MedCore Ltd
-PHY00380,Cardiology,PA,2025-11-18,150.75,Travel & Lodging,Acme Pharma
-PHY00260,Endocrinology,MI,2024-12-31,251.91,Consulting Fee,BioGen Solutions
-PHY00109,Rheumatology,IL,2025-06-16,1332.3,Royalty,Acme Pharma
-PHY00162,Cardiology,NY,2024-09-16,86.98,Research Payment,Acme Pharma
-PHY00131,Neurology,IL,2024-12-18,378.51,Meal,Acme Pharma
-PHY00404,Cardiology,NC,2025-10-27,308.98,Research Payment,MedCore Ltd
-PHY00477,Cardiology,MI,2024-09-21,160.16,Meal,NovaHealth Inc
-PHY00434,Psychiatry,FL,2025-10-07,73.12,Travel & Lodging,NovaHealth Inc
-PHY00431,Cardiology,GA,2024-12-29,960.88,Meal,Acme Pharma
-PHY00213,Pulmonology,NC,2025-12-28,1160.25,Meal,NovaHealth Inc
-PHY00474,Neurology,OH,2024-10-03,238.07,Meal,MedCore Ltd
-PHY00218,Pulmonology,OH,2024-07-08,119.34,Speaker Fee,Acme Pharma
-PHY00307,Neurology,FL,2024-12-03,1753.3,Speaker Fee,BioGen Solutions
-PHY00441,Cardiology,NY,2024-10-05,39.56,Research Payment,MedCore Ltd
-PHY00139,General Practice,TX,2024-10-15,1088.57,Meal,Acme Pharma
-PHY00272,Psychiatry,NC,2024-03-06,80.82,Meal,MedCore Ltd
-PHY00001,General Practice,IL,2025-10-01,447.91,Travel & Lodging,MedCore Ltd
-PHY00442,Psychiatry,NY,2024-05-22,840.85,Royalty,MedCore Ltd
-PHY00460,Endocrinology,NC,2025-02-04,50.4,Consulting Fee,BioGen Solutions
-PHY00252,Cardiology,NC,2024-07-25,400.13,Travel & Lodging,BioGen Solutions
-PHY00407,Rheumatology,GA,2025-03-18,183.18,Travel & Lodging,NovaHealth Inc
-PHY00376,Neurology,OH,2025-07-11,923.8,Royalty,BioGen Solutions
-PHY00147,Endocrinology,CA,2025-06-25,211.78,Royalty,BioGen Solutions
-PHY00084,Psychiatry,NC,2024-10-07,150.39,Royalty,BioGen Solutions
-PHY00150,Psychiatry,TX,2024-03-23,225.68,Royalty,BioGen Solutions
-PHY00387,Endocrinology,NC,2025-03-01,673.24,Research Payment,BioGen Solutions
-PHY00206,Pulmonology,OH,2024-03-03,443.3,Consulting Fee,BioGen Solutions
-PHY00124,General Practice,FL,2025-01-09,3426.97,Meal,NovaHealth Inc
-PHY00120,Pulmonology,PA,2025-03-12,463.33,Research Payment,MedCore Ltd
-PHY00424,Endocrinology,IL,2025-04-09,25.48,Travel & Lodging,Acme Pharma
-PHY00227,Pulmonology,NY,2024-11-29,171.48,Royalty,Acme Pharma
-PHY00196,Oncology,CA,2024-03-08,58.11,Research Payment,NovaHealth Inc
-PHY00369,Endocrinology,NY,2025-03-07,53.1,Royalty,MedCore Ltd
-PHY00035,Rheumatology,NC,2025-07-29,373.93,Research Payment,Acme Pharma
-PHY00304,Rheumatology,IL,2024-10-02,1302.18,Research Payment,BioGen Solutions
-PHY00172,Pulmonology,IL,2024-07-19,336.36,Consulting Fee,NovaHealth Inc
+PHY00001,General Practice,IL,2024-01-25,868.18,Research Payment,NovaHealth Inc
+PHY00002,Neurology,OH,2024-04-20,536.12,Meal,BioGen Solutions
+PHY00003,Pulmonology,CA,2025-04-14,1521.95,Consulting Fee,MedCore Ltd
+PHY00004,General Practice,NY,2025-08-17,467.17,Speaker Fee,Acme Pharma
+PHY00005,Endocrinology,TX,2025-09-04,1306.2,Speaker Fee,BioGen Solutions
+PHY00006,Psychiatry,NC,2024-11-10,50.83,Research Payment,NovaHealth Inc
+PHY00007,Pulmonology,MI,2025-01-11,158.59,Royalty,NovaHealth Inc
+PHY00008,Pulmonology,PA,2025-05-17,183.79,Meal,NovaHealth Inc
+PHY00009,General Practice,MI,2025-03-21,90.53,Consulting Fee,BioGen Solutions
+PHY00010,Oncology,NY,2024-08-30,127.2,Research Payment,MedCore Ltd
+PHY00011,Endocrinology,GA,2024-08-10,301.5,Travel & Lodging,MedCore Ltd
+PHY00012,General Practice,GA,2025-10-07,727.38,Royalty,Acme Pharma
+PHY00013,Endocrinology,TX,2025-08-28,446.35,Consulting Fee,NovaHealth Inc
+PHY00014,Endocrinology,PA,2025-12-15,75.71,Speaker Fee,BioGen Solutions
+PHY00015,Psychiatry,OH,2024-06-21,110.48,Royalty,MedCore Ltd
+PHY00016,Pulmonology,TX,2025-12-24,485.28,Consulting Fee,MedCore Ltd
+PHY00017,Neurology,MI,2024-04-22,2244.81,Royalty,MedCore Ltd
+PHY00018,Psychiatry,TX,2025-07-03,336.68,Research Payment,NovaHealth Inc
+PHY00019,Psychiatry,MI,2024-05-18,192.95,Travel & Lodging,Acme Pharma
+PHY00020,Endocrinology,CA,2025-11-20,433.63,Speaker Fee,Acme Pharma
+PHY00021,Rheumatology,GA,2025-10-11,118.82,Research Payment,Acme Pharma
+PHY00022,Pulmonology,CA,2025-07-03,609.29,Travel & Lodging,NovaHealth Inc
+PHY00023,Oncology,NC,2024-04-04,299.97,Meal,BioGen Solutions
+PHY00024,Psychiatry,PA,2025-06-30,272.4,Consulting Fee,MedCore Ltd
+PHY00025,Neurology,OH,2024-11-15,993.6,Travel & Lodging,Acme Pharma
+PHY00026,Rheumatology,MI,2024-08-16,332.06,Royalty,MedCore Ltd
+PHY00027,Rheumatology,OH,2024-10-17,392.82,Travel & Lodging,NovaHealth Inc
+PHY00028,Oncology,MI,2025-02-13,147.65,Royalty,MedCore Ltd
+PHY00029,Psychiatry,NY,2025-08-23,176.93,Royalty,MedCore Ltd
+PHY00030,Neurology,TX,2025-11-21,762.91,Research Payment,NovaHealth Inc
+PHY00031,Pulmonology,NC,2024-01-23,2690.98,Consulting Fee,Acme Pharma
+PHY00032,Cardiology,GA,2025-05-17,36.77,Speaker Fee,NovaHealth Inc
+PHY00033,Neurology,MI,2025-09-07,327.15,Royalty,NovaHealth Inc
+PHY00034,Oncology,OH,2025-08-01,38.99,Travel & Lodging,MedCore Ltd
+PHY00035,Rheumatology,NC,2025-07-07,367.31,Research Payment,Acme Pharma
+PHY00036,Pulmonology,FL,2025-04-22,148.66,Travel & Lodging,MedCore Ltd
+PHY00037,Neurology,FL,2024-06-05,141.0,Research Payment,BioGen Solutions
+PHY00038,Cardiology,CA,2024-10-15,88.25,Royalty,MedCore Ltd
+PHY00039,Cardiology,GA,2025-08-20,229.96,Speaker Fee,Acme Pharma
+PHY00040,Endocrinology,NY,2024-04-27,2228.61,Royalty,Acme Pharma
+PHY00041,Endocrinology,OH,2024-06-07,96.03,Meal,MedCore Ltd
+PHY00042,General Practice,TX,2024-01-15,17.53,Research Payment,MedCore Ltd
+PHY00043,Oncology,TX,2024-09-17,11.16,Research Payment,NovaHealth Inc
+PHY00044,Psychiatry,OH,2025-02-14,154.06,Travel & Lodging,BioGen Solutions
+PHY00045,Neurology,PA,2024-10-18,579.24,Meal,BioGen Solutions
+PHY00046,Neurology,NY,2024-09-10,1605.38,Speaker Fee,MedCore Ltd
+PHY00047,Psychiatry,NC,2025-07-03,150.15,Speaker Fee,NovaHealth Inc
+PHY00048,General Practice,MI,2024-12-28,42.83,Meal,NovaHealth Inc
+PHY00049,Rheumatology,PA,2024-05-20,693.27,Travel & Lodging,MedCore Ltd
+PHY00050,Rheumatology,MI,2024-12-21,79.53,Meal,Acme Pharma
+PHY00051,General Practice,MI,2024-05-06,330.4,Speaker Fee,Acme Pharma
+PHY00052,Rheumatology,PA,2024-02-20,62.32,Research Payment,NovaHealth Inc
+PHY00053,Endocrinology,CA,2024-10-22,164.82,Speaker Fee,NovaHealth Inc
+PHY00054,Neurology,FL,2025-02-23,139.17,Royalty,BioGen Solutions
+PHY00055,General Practice,MI,2024-01-01,261.61,Research Payment,BioGen Solutions
+PHY00056,Neurology,PA,2024-11-04,909.62,Consulting Fee,NovaHealth Inc
+PHY00057,Psychiatry,PA,2025-03-11,432.85,Travel & Lodging,BioGen Solutions
+PHY00058,Cardiology,IL,2024-08-31,1191.07,Consulting Fee,NovaHealth Inc
+PHY00059,Endocrinology,CA,2024-03-15,226.2,Travel & Lodging,NovaHealth Inc
+PHY00060,Pulmonology,GA,2024-12-12,644.77,Consulting Fee,MedCore Ltd
+PHY00061,Endocrinology,IL,2024-06-27,430.96,Meal,NovaHealth Inc
+PHY00062,General Practice,IL,2025-05-15,39.03,Consulting Fee,Acme Pharma
+PHY00063,Pulmonology,OH,2024-10-11,2250.14,Meal,NovaHealth Inc
+PHY00064,Cardiology,FL,2025-04-13,945.66,Consulting Fee,BioGen Solutions
+PHY00065,General Practice,PA,2024-03-24,3759.28,Royalty,MedCore Ltd
+PHY00066,Oncology,FL,2024-03-03,34.63,Research Payment,MedCore Ltd
+PHY00067,Neurology,NY,2025-07-14,68.56,Royalty,BioGen Solutions
+PHY00068,Cardiology,OH,2025-03-10,63.97,Travel & Lodging,MedCore Ltd
+PHY00069,Neurology,GA,2025-12-23,142.93,Consulting Fee,Acme Pharma
+PHY00070,Rheumatology,FL,2025-04-21,19.13,Royalty,MedCore Ltd
+PHY00071,Oncology,TX,2025-02-27,33.75,Travel & Lodging,BioGen Solutions
+PHY00072,Oncology,MI,2024-07-12,567.44,Royalty,MedCore Ltd
+PHY00073,Cardiology,NY,2024-04-22,1091.49,Meal,Acme Pharma
+PHY00074,Oncology,CA,2024-09-20,20.33,Research Payment,BioGen Solutions
+PHY00075,Pulmonology,GA,2025-10-04,45.19,Royalty,NovaHealth Inc
+PHY00076,Oncology,NY,2025-01-14,96.22,Consulting Fee,BioGen Solutions
+PHY00077,Neurology,MI,2024-02-24,438.07,Research Payment,MedCore Ltd
+PHY00078,Neurology,OH,2024-11-08,96.81,Travel & Lodging,MedCore Ltd
+PHY00079,General Practice,MI,2025-03-18,5354.25,Consulting Fee,BioGen Solutions
+PHY00080,Neurology,IL,2024-08-16,292.6,Travel & Lodging,BioGen Solutions
+PHY00081,General Practice,MI,2025-08-31,1919.83,Travel & Lodging,MedCore Ltd
+PHY00082,Neurology,IL,2024-03-28,415.37,Royalty,MedCore Ltd
+PHY00083,Pulmonology,OH,2024-04-29,32.08,Speaker Fee,BioGen Solutions
+PHY00084,Psychiatry,NC,2024-11-25,83.04,Consulting Fee,BioGen Solutions
+PHY00085,General Practice,IL,2024-03-25,32.99,Speaker Fee,Acme Pharma
+PHY00086,Endocrinology,CA,2025-12-09,2033.72,Meal,BioGen Solutions
+PHY00087,Rheumatology,MI,2025-01-20,164.81,Meal,Acme Pharma
+PHY00088,Cardiology,MI,2024-09-12,217.85,Royalty,Acme Pharma
+PHY00089,Neurology,CA,2024-08-13,157.53,Speaker Fee,NovaHealth Inc
+PHY00090,Oncology,TX,2024-12-29,431.33,Consulting Fee,NovaHealth Inc
+PHY00091,Psychiatry,PA,2024-06-06,785.4,Consulting Fee,NovaHealth Inc
+PHY00092,Neurology,NC,2024-04-24,235.77,Consulting Fee,NovaHealth Inc
+PHY00093,Oncology,GA,2025-06-04,3249.6,Consulting Fee,NovaHealth Inc
+PHY00094,Rheumatology,IL,2024-10-04,548.24,Travel & Lodging,NovaHealth Inc
+PHY00095,Rheumatology,CA,2024-01-04,919.32,Royalty,NovaHealth Inc
+PHY00096,Rheumatology,OH,2024-05-07,974.29,Research Payment,NovaHealth Inc
+PHY00097,Oncology,IL,2024-12-21,98.34,Research Payment,Acme Pharma
+PHY00098,Neurology,PA,2025-01-12,243.71,Meal,BioGen Solutions
+PHY00099,Rheumatology,OH,2025-09-20,1710.67,Consulting Fee,Acme Pharma
+PHY00100,Pulmonology,NY,2025-03-30,1610.97,Speaker Fee,Acme Pharma
+PHY00101,General Practice,MI,2025-02-04,26.87,Speaker Fee,NovaHealth Inc
+PHY00102,Oncology,NY,2025-07-29,52.69,Speaker Fee,MedCore Ltd
+PHY00103,Oncology,IL,2024-12-28,186.79,Meal,Acme Pharma
+PHY00104,Neurology,PA,2024-07-05,1042.22,Travel & Lodging,NovaHealth Inc
+PHY00105,Oncology,NC,2024-04-07,456.62,Royalty,Acme Pharma
+PHY00106,Oncology,IL,2024-11-07,212.3,Consulting Fee,NovaHealth Inc
+PHY00107,Rheumatology,CA,2025-07-01,55.79,Meal,BioGen Solutions
+PHY00108,Neurology,FL,2025-05-21,291.28,Research Payment,BioGen Solutions
+PHY00109,Rheumatology,IL,2025-04-26,137.53,Consulting Fee,Acme Pharma
+PHY00110,General Practice,MI,2024-10-22,3859.0,Consulting Fee,Acme Pharma
+PHY00111,Psychiatry,MI,2024-08-04,614.97,Consulting Fee,BioGen Solutions
+PHY00112,General Practice,IL,2024-05-10,1671.52,Speaker Fee,Acme Pharma
+PHY00113,Psychiatry,OH,2024-04-17,66.33,Speaker Fee,MedCore Ltd
+PHY00114,Rheumatology,FL,2024-10-01,746.49,Research Payment,MedCore Ltd
+PHY00115,General Practice,CA,2024-01-17,223.78,Meal,NovaHealth Inc
+PHY00116,Neurology,IL,2025-08-14,515.33,Travel & Lodging,MedCore Ltd
+PHY00117,Cardiology,OH,2025-10-22,642.76,Royalty,MedCore Ltd
+PHY00118,Rheumatology,MI,2025-06-20,747.18,Speaker Fee,Acme Pharma
+PHY00119,Psychiatry,MI,2024-09-24,409.75,Speaker Fee,Acme Pharma
+PHY00120,Pulmonology,PA,2024-03-26,313.95,Speaker Fee,BioGen Solutions
+PHY00121,Psychiatry,IL,2024-11-30,66.87,Speaker Fee,BioGen Solutions
+PHY00122,Pulmonology,FL,2025-12-27,865.91,Research Payment,NovaHealth Inc
+PHY00123,Oncology,TX,2024-08-10,253.15,Speaker Fee,BioGen Solutions
+PHY00124,General Practice,FL,2025-05-04,253.59,Consulting Fee,NovaHealth Inc
+PHY00125,Pulmonology,MI,2024-06-07,722.49,Research Payment,NovaHealth Inc
+PHY00126,Psychiatry,MI,2024-05-10,21.88,Research Payment,BioGen Solutions
+PHY00127,Oncology,NY,2024-07-01,1384.38,Consulting Fee,MedCore Ltd
+PHY00128,Cardiology,MI,2024-12-14,24.89,Royalty,Acme Pharma
+PHY00129,Neurology,CA,2025-01-31,693.2,Speaker Fee,MedCore Ltd
+PHY00130,Neurology,GA,2025-03-25,343.66,Travel & Lodging,NovaHealth Inc
+PHY00131,Neurology,IL,2025-06-29,575.98,Travel & Lodging,BioGen Solutions
+PHY00132,Pulmonology,FL,2024-02-08,258.89,Royalty,MedCore Ltd
+PHY00133,Cardiology,GA,2024-01-29,131.53,Research Payment,MedCore Ltd
+PHY00134,Pulmonology,OH,2025-11-27,1327.72,Meal,BioGen Solutions
+PHY00135,General Practice,TX,2025-01-11,143.37,Meal,Acme Pharma
+PHY00136,Pulmonology,CA,2025-07-30,1399.77,Royalty,Acme Pharma
+PHY00137,Cardiology,FL,2024-01-03,26.22,Speaker Fee,MedCore Ltd
+PHY00138,Cardiology,GA,2024-05-25,170.77,Royalty,Acme Pharma
+PHY00139,General Practice,TX,2025-10-26,425.0,Consulting Fee,BioGen Solutions
+PHY00140,Cardiology,NY,2024-12-09,181.33,Meal,MedCore Ltd
+PHY00141,Psychiatry,CA,2024-07-05,200.56,Royalty,MedCore Ltd
+PHY00142,Cardiology,CA,2024-01-11,90.86,Royalty,Acme Pharma
+PHY00143,Neurology,NY,2024-08-13,992.79,Research Payment,NovaHealth Inc
+PHY00144,Psychiatry,IL,2024-11-25,1711.85,Travel & Lodging,NovaHealth Inc
+PHY00145,Psychiatry,NY,2024-08-05,429.35,Royalty,BioGen Solutions
+PHY00146,General Practice,CA,2025-12-27,450.26,Consulting Fee,Acme Pharma
+PHY00147,Endocrinology,CA,2024-04-08,522.04,Travel & Lodging,NovaHealth Inc
+PHY00148,Endocrinology,GA,2025-02-22,4649.94,Speaker Fee,NovaHealth Inc
+PHY00149,Cardiology,MI,2024-03-02,3578.9,Research Payment,BioGen Solutions
+PHY00150,Psychiatry,TX,2024-03-29,110.04,Consulting Fee,MedCore Ltd
+PHY00151,Endocrinology,NY,2024-12-22,117.29,Consulting Fee,BioGen Solutions
+PHY00152,Endocrinology,TX,2024-11-27,153.66,Speaker Fee,Acme Pharma
+PHY00153,Cardiology,NY,2025-04-07,539.29,Travel & Lodging,NovaHealth Inc
+PHY00154,Endocrinology,OH,2024-05-03,2730.51,Royalty,MedCore Ltd
+PHY00155,Pulmonology,CA,2024-09-07,235.16,Royalty,Acme Pharma
+PHY00156,Oncology,MI,2024-11-11,2107.95,Research Payment,MedCore Ltd
+PHY00157,General Practice,GA,2025-08-15,727.05,Travel & Lodging,MedCore Ltd
+PHY00158,Oncology,MI,2024-02-09,255.46,Speaker Fee,MedCore Ltd
+PHY00159,Cardiology,MI,2024-10-15,326.37,Meal,Acme Pharma
+PHY00160,Neurology,MI,2025-07-24,353.07,Travel & Lodging,MedCore Ltd
+PHY00161,General Practice,TX,2025-11-11,60.18,Research Payment,NovaHealth Inc
+PHY00162,Cardiology,NY,2024-12-21,100.38,Travel & Lodging,NovaHealth Inc
+PHY00163,Psychiatry,NC,2025-11-30,200.23,Travel & Lodging,Acme Pharma
+PHY00164,Neurology,OH,2025-10-31,291.8,Speaker Fee,MedCore Ltd
+PHY00165,Oncology,FL,2024-09-14,253.28,Speaker Fee,MedCore Ltd
+PHY00166,Cardiology,MI,2025-06-08,1134.72,Royalty,BioGen Solutions
+PHY00167,Psychiatry,IL,2024-04-22,74.48,Speaker Fee,MedCore Ltd
+PHY00168,General Practice,TX,2025-03-23,294.5,Research Payment,BioGen Solutions
+PHY00169,General Practice,GA,2024-11-21,1016.04,Meal,MedCore Ltd
+PHY00170,Rheumatology,FL,2024-11-30,184.27,Royalty,Acme Pharma
+PHY00171,Psychiatry,NC,2024-10-04,302.07,Speaker Fee,MedCore Ltd
+PHY00172,Pulmonology,IL,2025-12-31,399.5,Consulting Fee,MedCore Ltd
+PHY00173,Endocrinology,NC,2025-02-04,27.88,Speaker Fee,MedCore Ltd
+PHY00174,Neurology,FL,2024-07-28,779.01,Speaker Fee,NovaHealth Inc
+PHY00175,Psychiatry,MI,2025-12-04,121.04,Travel & Lodging,BioGen Solutions
+PHY00176,Rheumatology,IL,2025-01-15,2423.49,Meal,BioGen Solutions
+PHY00177,Endocrinology,NC,2024-01-29,1601.39,Speaker Fee,BioGen Solutions
+PHY00178,Endocrinology,GA,2025-06-21,226.13,Speaker Fee,NovaHealth Inc
+PHY00179,Cardiology,NY,2024-10-11,272.26,Research Payment,Acme Pharma
+PHY00180,Endocrinology,CA,2024-03-15,991.38,Meal,MedCore Ltd
+PHY00181,Pulmonology,NY,2024-05-09,102.71,Travel & Lodging,BioGen Solutions
+PHY00182,General Practice,FL,2025-12-07,588.38,Consulting Fee,NovaHealth Inc
+PHY00183,Rheumatology,TX,2025-03-15,533.92,Research Payment,BioGen Solutions
+PHY00184,Endocrinology,CA,2024-03-24,217.24,Royalty,BioGen Solutions
+PHY00185,Cardiology,OH,2025-03-28,231.67,Meal,NovaHealth Inc
+PHY00186,Pulmonology,GA,2025-06-10,327.67,Speaker Fee,Acme Pharma
+PHY00187,Oncology,OH,2024-06-11,267.48,Meal,NovaHealth Inc
+PHY00188,General Practice,IL,2024-09-27,185.81,Meal,MedCore Ltd
+PHY00189,General Practice,CA,2025-06-22,369.17,Travel & Lodging,NovaHealth Inc
+PHY00190,Rheumatology,OH,2025-07-15,423.31,Meal,BioGen Solutions
+PHY00191,General Practice,OH,2025-01-21,112.17,Meal,NovaHealth Inc
+PHY00192,Endocrinology,NC,2025-07-11,753.45,Consulting Fee,NovaHealth Inc
+PHY00193,Cardiology,NY,2024-07-24,1747.14,Meal,MedCore Ltd
+PHY00194,General Practice,NC,2025-06-04,1482.15,Royalty,MedCore Ltd
+PHY00195,General Practice,CA,2025-12-26,36.25,Travel & Lodging,MedCore Ltd
+PHY00196,Oncology,CA,2025-12-17,481.85,Consulting Fee,MedCore Ltd
+PHY00197,Oncology,FL,2024-09-30,79.49,Royalty,MedCore Ltd
+PHY00198,Neurology,NC,2024-01-11,1707.12,Research Payment,Acme Pharma
+PHY00199,Pulmonology,PA,2024-04-11,333.48,Travel & Lodging,MedCore Ltd
+PHY00200,Endocrinology,NY,2025-07-06,429.64,Consulting Fee,MedCore Ltd
+PHY00201,General Practice,CA,2024-02-15,243.64,Royalty,MedCore Ltd
+PHY00202,Psychiatry,FL,2025-10-21,60.94,Consulting Fee,NovaHealth Inc
+PHY00203,General Practice,NC,2024-08-29,314.21,Consulting Fee,Acme Pharma
+PHY00204,Cardiology,NY,2025-08-11,21.11,Meal,NovaHealth Inc
+PHY00205,Neurology,NC,2024-04-12,309.36,Royalty,NovaHealth Inc
+PHY00206,Pulmonology,OH,2024-05-22,68.36,Speaker Fee,NovaHealth Inc
+PHY00207,Psychiatry,FL,2025-03-03,340.57,Travel & Lodging,BioGen Solutions
+PHY00208,Neurology,NY,2024-01-09,93.85,Royalty,Acme Pharma
+PHY00209,Rheumatology,MI,2024-12-24,38.84,Meal,MedCore Ltd
+PHY00210,Pulmonology,IL,2025-11-20,687.7,Meal,NovaHealth Inc
+PHY00211,General Practice,IL,2024-03-24,862.18,Travel & Lodging,MedCore Ltd
+PHY00212,General Practice,NY,2024-07-26,128.73,Meal,NovaHealth Inc
+PHY00213,Pulmonology,NC,2024-11-09,216.81,Consulting Fee,MedCore Ltd
+PHY00214,General Practice,FL,2024-01-14,1477.75,Travel & Lodging,NovaHealth Inc
+PHY00215,Endocrinology,IL,2024-01-12,111.98,Research Payment,BioGen Solutions
+PHY00216,Pulmonology,FL,2024-05-01,136.91,Travel & Lodging,BioGen Solutions
+PHY00217,Neurology,IL,2024-12-21,485.62,Research Payment,BioGen Solutions
+PHY00218,Pulmonology,OH,2024-10-14,383.87,Travel & Lodging,MedCore Ltd
+PHY00219,Psychiatry,NC,2025-08-16,449.07,Travel & Lodging,BioGen Solutions
+PHY00220,General Practice,OH,2025-12-14,22.27,Travel & Lodging,BioGen Solutions
+PHY00221,Endocrinology,IL,2025-03-20,179.67,Royalty,Acme Pharma
+PHY00222,Endocrinology,MI,2024-06-07,33.04,Speaker Fee,Acme Pharma
+PHY00223,Rheumatology,MI,2024-01-24,26.12,Meal,NovaHealth Inc
+PHY00224,Neurology,OH,2025-06-15,82.94,Meal,MedCore Ltd
+PHY00225,Oncology,MI,2025-07-15,320.33,Meal,NovaHealth Inc
+PHY00226,Oncology,IL,2024-04-26,859.64,Speaker Fee,MedCore Ltd
+PHY00227,Pulmonology,NY,2025-07-31,1188.36,Speaker Fee,BioGen Solutions
+PHY00228,Rheumatology,OH,2025-01-05,414.54,Speaker Fee,NovaHealth Inc
+PHY00229,Cardiology,TX,2025-09-28,463.79,Research Payment,BioGen Solutions
+PHY00230,Pulmonology,NC,2025-06-03,54.35,Meal,MedCore Ltd
+PHY00231,Rheumatology,MI,2025-04-22,126.42,Royalty,NovaHealth Inc
+PHY00232,Neurology,MI,2025-01-09,109.3,Research Payment,Acme Pharma
+PHY00233,Neurology,CA,2025-07-06,469.81,Royalty,MedCore Ltd
+PHY00234,Neurology,PA,2024-08-18,156.85,Consulting Fee,MedCore Ltd
+PHY00235,Neurology,OH,2024-05-09,337.6,Consulting Fee,Acme Pharma
+PHY00236,Neurology,GA,2024-01-28,103.92,Speaker Fee,BioGen Solutions
+PHY00237,Rheumatology,MI,2024-08-16,249.7,Meal,MedCore Ltd
+PHY00238,Rheumatology,NC,2025-11-06,218.65,Research Payment,BioGen Solutions
+PHY00239,Endocrinology,TX,2024-10-29,411.49,Royalty,NovaHealth Inc
+PHY00240,Psychiatry,MI,2025-08-14,170.82,Speaker Fee,Acme Pharma
+PHY00241,Oncology,TX,2024-12-26,37.79,Travel & Lodging,MedCore Ltd
+PHY00242,General Practice,IL,2025-05-27,146.39,Consulting Fee,MedCore Ltd
+PHY00243,Neurology,IL,2024-10-10,166.34,Consulting Fee,MedCore Ltd
+PHY00244,Cardiology,PA,2025-07-09,2957.49,Meal,BioGen Solutions
+PHY00245,General Practice,NY,2025-12-19,1637.3,Meal,NovaHealth Inc
+PHY00246,Rheumatology,GA,2024-11-29,3902.41,Speaker Fee,Acme Pharma
+PHY00247,Cardiology,CA,2025-05-25,55.43,Research Payment,Acme Pharma
+PHY00248,Cardiology,PA,2024-02-28,520.66,Research Payment,Acme Pharma
+PHY00249,Cardiology,FL,2025-11-21,734.8,Travel & Lodging,NovaHealth Inc
+PHY00250,Endocrinology,CA,2025-03-03,370.85,Royalty,MedCore Ltd
+PHY00251,Rheumatology,OH,2024-05-30,79.35,Speaker Fee,Acme Pharma
+PHY00252,Cardiology,NC,2024-05-08,530.13,Research Payment,MedCore Ltd
+PHY00253,Neurology,FL,2024-12-23,194.65,Speaker Fee,Acme Pharma
+PHY00254,Pulmonology,FL,2024-11-06,317.64,Speaker Fee,BioGen Solutions
+PHY00255,Cardiology,PA,2025-02-17,4376.91,Consulting Fee,MedCore Ltd
+PHY00256,Endocrinology,NY,2024-12-10,228.34,Royalty,MedCore Ltd
+PHY00257,General Practice,PA,2024-01-01,526.62,Research Payment,MedCore Ltd
+PHY00258,Rheumatology,OH,2024-03-09,62.08,Consulting Fee,NovaHealth Inc
+PHY00259,Psychiatry,MI,2024-08-07,369.04,Consulting Fee,Acme Pharma
+PHY00260,Endocrinology,MI,2025-11-11,64.46,Consulting Fee,MedCore Ltd
+PHY00261,Cardiology,NY,2025-08-07,178.69,Travel & Lodging,MedCore Ltd
+PHY00262,Rheumatology,OH,2025-09-01,133.06,Research Payment,NovaHealth Inc
+PHY00263,Pulmonology,NY,2025-05-08,214.04,Speaker Fee,NovaHealth Inc
+PHY00264,Cardiology,TX,2025-01-31,614.85,Consulting Fee,BioGen Solutions
+PHY00265,Endocrinology,MI,2024-12-30,204.37,Royalty,BioGen Solutions
+PHY00266,Oncology,FL,2025-08-23,284.49,Research Payment,BioGen Solutions
+PHY00267,Neurology,GA,2024-03-05,52.79,Research Payment,BioGen Solutions
+PHY00268,Psychiatry,NC,2025-08-27,34.04,Consulting Fee,Acme Pharma
+PHY00269,General Practice,OH,2024-10-31,18.51,Royalty,NovaHealth Inc
+PHY00270,Endocrinology,CA,2024-09-23,2042.56,Travel & Lodging,MedCore Ltd
+PHY00271,Rheumatology,NY,2025-09-13,1122.16,Consulting Fee,BioGen Solutions
+PHY00272,Psychiatry,NC,2024-03-25,565.26,Speaker Fee,MedCore Ltd
+PHY00273,Psychiatry,CA,2025-03-25,141.87,Speaker Fee,Acme Pharma
+PHY00274,Psychiatry,NC,2024-01-12,238.91,Research Payment,NovaHealth Inc
+PHY00275,Cardiology,GA,2024-10-30,834.71,Travel & Lodging,MedCore Ltd
+PHY00276,Neurology,CA,2024-12-08,4571.99,Royalty,NovaHealth Inc
+PHY00277,Cardiology,PA,2025-05-12,303.48,Research Payment,BioGen Solutions
+PHY00278,Rheumatology,IL,2025-09-10,2175.33,Research Payment,MedCore Ltd
+PHY00279,Cardiology,PA,2025-02-02,277.28,Meal,Acme Pharma
+PHY00280,Oncology,MI,2024-05-20,226.99,Royalty,BioGen Solutions
+PHY00281,Neurology,IL,2024-11-29,32.09,Meal,NovaHealth Inc
+PHY00282,Neurology,PA,2025-06-22,217.46,Research Payment,BioGen Solutions
+PHY00283,Rheumatology,IL,2024-06-04,24.67,Meal,NovaHealth Inc
+PHY00284,General Practice,IL,2025-10-19,393.94,Speaker Fee,Acme Pharma
+PHY00285,Oncology,FL,2025-08-11,75.26,Travel & Lodging,BioGen Solutions
+PHY00286,Endocrinology,NY,2024-12-16,186.88,Meal,NovaHealth Inc
+PHY00287,Cardiology,NY,2024-02-08,2243.86,Consulting Fee,NovaHealth Inc
+PHY00288,Pulmonology,FL,2025-03-20,319.49,Speaker Fee,MedCore Ltd
+PHY00289,Cardiology,NC,2024-02-05,91.18,Royalty,Acme Pharma
+PHY00290,Psychiatry,TX,2024-06-20,204.3,Research Payment,NovaHealth Inc
+PHY00291,Cardiology,NC,2025-07-12,283.37,Royalty,Acme Pharma
+PHY00292,Endocrinology,CA,2025-12-26,469.64,Meal,Acme Pharma
+PHY00293,Cardiology,CA,2024-01-26,445.66,Speaker Fee,Acme Pharma
+PHY00294,Oncology,IL,2025-09-28,51.64,Speaker Fee,MedCore Ltd
+PHY00295,Oncology,PA,2024-05-31,55.0,Research Payment,MedCore Ltd
+PHY00296,Neurology,PA,2024-02-19,106.54,Travel & Lodging,MedCore Ltd
+PHY00297,Rheumatology,NY,2024-02-29,841.01,Travel & Lodging,MedCore Ltd
+PHY00298,General Practice,OH,2025-03-14,484.81,Speaker Fee,Acme Pharma
+PHY00299,Pulmonology,NC,2025-11-17,447.36,Consulting Fee,BioGen Solutions
+PHY00300,Psychiatry,MI,2025-10-22,158.76,Consulting Fee,NovaHealth Inc
+PHY00301,Cardiology,GA,2025-03-07,68.3,Travel & Lodging,NovaHealth Inc
+PHY00302,Cardiology,PA,2025-08-12,100.68,Research Payment,Acme Pharma
+PHY00303,Endocrinology,GA,2025-03-16,356.83,Travel & Lodging,BioGen Solutions
+PHY00304,Rheumatology,IL,2025-08-19,244.08,Speaker Fee,BioGen Solutions
+PHY00305,Oncology,GA,2025-07-07,1832.14,Consulting Fee,BioGen Solutions
+PHY00306,Pulmonology,MI,2024-10-06,125.93,Meal,NovaHealth Inc
+PHY00307,Neurology,FL,2025-06-14,33.82,Research Payment,NovaHealth Inc
+PHY00308,Oncology,MI,2024-02-05,858.24,Research Payment,Acme Pharma
+PHY00309,Psychiatry,GA,2025-11-06,121.75,Travel & Lodging,NovaHealth Inc
+PHY00310,Rheumatology,MI,2025-02-28,72.41,Meal,Acme Pharma
+PHY00311,Psychiatry,TX,2025-07-14,442.33,Meal,BioGen Solutions
+PHY00312,General Practice,IL,2024-06-08,779.37,Research Payment,MedCore Ltd
+PHY00313,Neurology,NC,2024-08-17,1858.57,Meal,Acme Pharma
+PHY00314,General Practice,FL,2024-02-27,695.54,Travel & Lodging,NovaHealth Inc
+PHY00315,Endocrinology,PA,2024-05-09,1820.9,Royalty,MedCore Ltd
+PHY00316,Psychiatry,CA,2024-09-20,404.57,Royalty,MedCore Ltd
+PHY00317,Endocrinology,NC,2025-03-17,74.53,Speaker Fee,NovaHealth Inc
+PHY00318,Cardiology,CA,2025-10-31,520.76,Consulting Fee,BioGen Solutions
+PHY00319,General Practice,IL,2024-01-12,1184.19,Meal,BioGen Solutions
+PHY00320,Rheumatology,FL,2025-10-17,56.97,Royalty,Acme Pharma
+PHY00321,Psychiatry,NY,2024-10-05,65.97,Research Payment,MedCore Ltd
+PHY00322,Pulmonology,PA,2024-09-04,167.39,Meal,Acme Pharma
+PHY00323,Neurology,TX,2025-09-24,112.35,Royalty,NovaHealth Inc
+PHY00324,Oncology,NY,2025-03-31,339.7,Consulting Fee,Acme Pharma
+PHY00325,Rheumatology,IL,2025-04-04,572.34,Royalty,MedCore Ltd
+PHY00326,Rheumatology,NC,2025-04-25,771.27,Speaker Fee,Acme Pharma
+PHY00327,Endocrinology,TX,2025-07-31,38.72,Consulting Fee,Acme Pharma
+PHY00328,General Practice,MI,2025-03-24,58.63,Travel & Lodging,BioGen Solutions
+PHY00329,Psychiatry,GA,2024-06-28,308.58,Speaker Fee,BioGen Solutions
+PHY00330,Psychiatry,TX,2024-09-18,217.99,Travel & Lodging,NovaHealth Inc
+PHY00331,Cardiology,IL,2024-05-22,269.94,Travel & Lodging,NovaHealth Inc
+PHY00332,Cardiology,OH,2024-08-03,217.31,Speaker Fee,NovaHealth Inc
+PHY00333,Neurology,GA,2025-04-06,484.02,Meal,NovaHealth Inc
+PHY00334,Endocrinology,CA,2024-03-13,502.46,Research Payment,BioGen Solutions
+PHY00335,Rheumatology,PA,2025-07-31,145.34,Royalty,MedCore Ltd
+PHY00336,Psychiatry,CA,2024-09-22,127.42,Consulting Fee,NovaHealth Inc
+PHY00337,Pulmonology,TX,2024-09-09,4711.93,Royalty,NovaHealth Inc
+PHY00338,Endocrinology,CA,2025-01-15,170.69,Meal,BioGen Solutions
+PHY00339,Neurology,IL,2025-04-27,68.16,Research Payment,NovaHealth Inc
+PHY00340,Neurology,MI,2025-01-26,169.65,Research Payment,NovaHealth Inc
+PHY00341,Endocrinology,NC,2025-06-20,214.94,Meal,MedCore Ltd
+PHY00342,Neurology,PA,2024-05-07,225.3,Meal,Acme Pharma
+PHY00343,Endocrinology,CA,2025-06-26,7.65,Meal,BioGen Solutions
+PHY00344,Oncology,CA,2025-01-24,347.9,Research Payment,BioGen Solutions
+PHY00345,Endocrinology,TX,2024-09-10,33.52,Travel & Lodging,Acme Pharma
+PHY00346,General Practice,NC,2025-04-11,1105.14,Speaker Fee,NovaHealth Inc
+PHY00347,Endocrinology,NY,2024-12-10,292.48,Consulting Fee,BioGen Solutions
+PHY00348,Neurology,CA,2024-03-23,163.28,Consulting Fee,BioGen Solutions
+PHY00349,Psychiatry,IL,2024-05-28,157.49,Travel & Lodging,BioGen Solutions
+PHY00350,General Practice,OH,2024-03-20,104.78,Meal,Acme Pharma
+PHY00351,Neurology,PA,2024-09-16,53.02,Research Payment,BioGen Solutions
+PHY00352,Cardiology,CA,2025-01-14,518.68,Meal,Acme Pharma
+PHY00353,Cardiology,IL,2025-02-23,11.42,Research Payment,MedCore Ltd
+PHY00354,Psychiatry,IL,2025-12-03,750.83,Royalty,MedCore Ltd
+PHY00355,Psychiatry,PA,2025-04-27,60.09,Royalty,BioGen Solutions
+PHY00356,General Practice,NY,2025-08-20,28.15,Research Payment,NovaHealth Inc
+PHY00357,Oncology,IL,2024-07-01,122.51,Royalty,NovaHealth Inc
+PHY00358,Psychiatry,OH,2025-08-13,10.92,Research Payment,NovaHealth Inc
+PHY00359,Cardiology,IL,2025-04-15,278.83,Consulting Fee,Acme Pharma
+PHY00360,Endocrinology,IL,2024-07-31,63.92,Speaker Fee,NovaHealth Inc
+PHY00361,Neurology,IL,2025-05-07,240.24,Travel & Lodging,Acme Pharma
+PHY00362,Cardiology,MI,2025-11-30,490.36,Travel & Lodging,BioGen Solutions
+PHY00363,Cardiology,MI,2024-11-03,107.31,Royalty,MedCore Ltd
+PHY00364,Oncology,NY,2025-06-29,141.19,Meal,MedCore Ltd
+PHY00365,General Practice,CA,2025-08-16,15.44,Meal,Acme Pharma
+PHY00366,General Practice,IL,2025-02-25,143.46,Speaker Fee,Acme Pharma
+PHY00367,Rheumatology,NC,2025-07-07,109.63,Consulting Fee,NovaHealth Inc
+PHY00368,Oncology,CA,2025-07-25,852.25,Research Payment,Acme Pharma
+PHY00369,Endocrinology,NY,2024-01-10,220.27,Research Payment,MedCore Ltd
+PHY00370,General Practice,FL,2025-12-15,293.91,Speaker Fee,MedCore Ltd
+PHY00371,Neurology,CA,2025-12-26,1166.88,Meal,BioGen Solutions
+PHY00372,Psychiatry,CA,2024-06-21,1593.7,Travel & Lodging,Acme Pharma
+PHY00373,Oncology,GA,2025-02-19,236.01,Research Payment,MedCore Ltd
+PHY00374,Psychiatry,TX,2025-05-19,333.97,Travel & Lodging,Acme Pharma
+PHY00375,Cardiology,GA,2025-09-12,211.11,Consulting Fee,Acme Pharma
+PHY00376,Neurology,OH,2024-05-27,273.97,Research Payment,MedCore Ltd
+PHY00377,Neurology,MI,2024-12-31,67.22,Research Payment,NovaHealth Inc
+PHY00378,Cardiology,MI,2024-12-17,28.95,Speaker Fee,NovaHealth Inc
+PHY00379,Oncology,TX,2025-09-14,808.56,Consulting Fee,Acme Pharma
+PHY00380,Cardiology,PA,2025-04-07,98.68,Speaker Fee,BioGen Solutions
+PHY00381,Psychiatry,PA,2025-07-14,87.04,Consulting Fee,Acme Pharma
+PHY00382,Rheumatology,NY,2024-08-04,85.07,Speaker Fee,BioGen Solutions
+PHY00383,Neurology,TX,2024-07-08,168.97,Meal,MedCore Ltd
+PHY00384,Pulmonology,CA,2025-05-02,557.99,Speaker Fee,NovaHealth Inc
+PHY00385,Pulmonology,PA,2025-11-23,257.03,Meal,NovaHealth Inc
+PHY00386,Psychiatry,IL,2025-06-06,662.07,Speaker Fee,BioGen Solutions
+PHY00387,Endocrinology,NC,2024-09-29,69.84,Meal,NovaHealth Inc
+PHY00388,General Practice,CA,2025-09-17,23.11,Royalty,MedCore Ltd
+PHY00389,Cardiology,OH,2025-02-17,315.04,Travel & Lodging,NovaHealth Inc
+PHY00390,Cardiology,IL,2024-04-22,452.6,Research Payment,BioGen Solutions
+PHY00391,Endocrinology,IL,2024-05-01,352.47,Consulting Fee,MedCore Ltd
+PHY00392,Endocrinology,TX,2024-08-20,336.66,Speaker Fee,Acme Pharma
+PHY00393,Psychiatry,NY,2025-01-31,382.6,Meal,MedCore Ltd
+PHY00394,Psychiatry,OH,2024-07-21,1667.28,Royalty,NovaHealth Inc
+PHY00395,Endocrinology,PA,2024-08-22,348.43,Research Payment,NovaHealth Inc
+PHY00396,Neurology,TX,2025-06-24,31.16,Research Payment,BioGen Solutions
+PHY00397,Psychiatry,PA,2025-03-11,129.76,Travel & Lodging,BioGen Solutions
+PHY00398,Rheumatology,TX,2024-03-28,494.54,Meal,Acme Pharma
+PHY00399,Psychiatry,TX,2024-10-04,3868.0,Travel & Lodging,BioGen Solutions
+PHY00400,Cardiology,TX,2025-09-21,889.38,Travel & Lodging,BioGen Solutions
+PHY00401,Psychiatry,NY,2025-02-16,297.44,Consulting Fee,MedCore Ltd
+PHY00402,Neurology,TX,2024-08-16,87.57,Speaker Fee,NovaHealth Inc
+PHY00403,Endocrinology,FL,2025-10-17,500.68,Travel & Lodging,Acme Pharma
+PHY00404,Cardiology,NC,2024-04-13,616.12,Travel & Lodging,MedCore Ltd
+PHY00405,Psychiatry,PA,2025-05-05,915.88,Royalty,BioGen Solutions
+PHY00406,Neurology,CA,2025-12-31,87.38,Travel & Lodging,NovaHealth Inc
+PHY00407,Rheumatology,GA,2024-04-21,341.58,Royalty,NovaHealth Inc
+PHY00408,Psychiatry,OH,2025-08-24,1402.17,Speaker Fee,NovaHealth Inc
+PHY00409,Neurology,MI,2024-01-12,95.4,Speaker Fee,Acme Pharma
+PHY00410,Rheumatology,NY,2025-01-11,532.69,Meal,BioGen Solutions
+PHY00411,Endocrinology,CA,2024-03-10,91.78,Meal,NovaHealth Inc
+PHY00412,Psychiatry,IL,2025-06-19,19.83,Royalty,BioGen Solutions
+PHY00413,Rheumatology,FL,2024-06-02,44.61,Research Payment,NovaHealth Inc
+PHY00414,Cardiology,MI,2024-02-07,29.58,Royalty,MedCore Ltd
+PHY00415,Endocrinology,GA,2024-07-06,126.19,Royalty,BioGen Solutions
+PHY00416,Cardiology,CA,2025-12-28,5270.28,Research Payment,MedCore Ltd
+PHY00417,Pulmonology,MI,2025-11-28,2283.76,Royalty,MedCore Ltd
+PHY00418,Oncology,CA,2024-06-10,2354.16,Royalty,NovaHealth Inc
+PHY00419,Psychiatry,FL,2024-06-07,74.38,Research Payment,MedCore Ltd
+PHY00420,Rheumatology,GA,2025-06-25,388.8,Speaker Fee,NovaHealth Inc
+PHY00421,Oncology,IL,2024-04-26,272.08,Research Payment,MedCore Ltd
+PHY00422,Oncology,TX,2024-12-15,1440.92,Consulting Fee,BioGen Solutions
+PHY00423,Rheumatology,PA,2025-04-25,221.58,Travel & Lodging,MedCore Ltd
+PHY00424,Endocrinology,IL,2024-10-29,211.43,Travel & Lodging,Acme Pharma
+PHY00425,Psychiatry,TX,2024-04-27,71.59,Meal,MedCore Ltd
+PHY00426,Pulmonology,NY,2024-02-16,2264.05,Travel & Lodging,BioGen Solutions
+PHY00427,Cardiology,NC,2025-12-10,352.32,Speaker Fee,NovaHealth Inc
+PHY00428,Neurology,OH,2025-09-10,46.9,Consulting Fee,NovaHealth Inc
+PHY00429,Cardiology,OH,2024-09-10,1836.74,Travel & Lodging,Acme Pharma
+PHY00430,Neurology,PA,2025-07-16,591.03,Research Payment,BioGen Solutions
+PHY00431,Cardiology,GA,2025-03-01,149.35,Research Payment,Acme Pharma
+PHY00432,Rheumatology,FL,2024-02-18,461.51,Research Payment,NovaHealth Inc
+PHY00433,Pulmonology,GA,2025-12-04,64.48,Meal,NovaHealth Inc
+PHY00434,Psychiatry,FL,2024-10-21,229.99,Speaker Fee,BioGen Solutions
+PHY00435,Neurology,GA,2025-10-02,176.08,Meal,MedCore Ltd
+PHY00436,Psychiatry,NC,2025-07-01,73.76,Research Payment,NovaHealth Inc
+PHY00437,Psychiatry,NY,2025-02-11,216.98,Meal,BioGen Solutions
+PHY00438,Psychiatry,NY,2024-06-11,191.63,Meal,NovaHealth Inc
+PHY00439,General Practice,TX,2025-09-23,225.92,Speaker Fee,Acme Pharma
+PHY00440,Endocrinology,MI,2024-07-23,328.43,Royalty,MedCore Ltd
+PHY00441,Cardiology,NY,2024-08-15,13.34,Royalty,BioGen Solutions
+PHY00442,Psychiatry,NY,2025-02-02,706.88,Speaker Fee,MedCore Ltd
+PHY00443,Cardiology,IL,2024-07-21,265.17,Research Payment,NovaHealth Inc
+PHY00444,Psychiatry,IL,2025-10-27,454.47,Meal,MedCore Ltd
+PHY00445,Neurology,TX,2024-05-21,634.68,Speaker Fee,Acme Pharma
+PHY00446,Endocrinology,MI,2024-10-31,54.32,Travel & Lodging,BioGen Solutions
+PHY00447,Endocrinology,PA,2025-01-18,91.13,Royalty,BioGen Solutions
+PHY00448,Rheumatology,IL,2024-10-15,200.94,Consulting Fee,MedCore Ltd
+PHY00449,General Practice,PA,2025-07-26,135.59,Travel & Lodging,Acme Pharma
+PHY00450,Rheumatology,CA,2025-02-26,45.79,Royalty,Acme Pharma
+PHY00451,Rheumatology,IL,2025-06-12,49.13,Speaker Fee,Acme Pharma
+PHY00452,Rheumatology,NC,2025-05-31,474.31,Speaker Fee,NovaHealth Inc
+PHY00453,Rheumatology,MI,2024-04-21,192.28,Travel & Lodging,Acme Pharma
+PHY00454,Rheumatology,TX,2025-11-09,206.43,Royalty,MedCore Ltd
+PHY00455,Pulmonology,CA,2024-12-09,170.26,Travel & Lodging,NovaHealth Inc
+PHY00456,Endocrinology,MI,2025-09-02,319.97,Travel & Lodging,BioGen Solutions
+PHY00457,Rheumatology,NC,2025-07-14,112.71,Meal,NovaHealth Inc
+PHY00458,Psychiatry,MI,2025-01-17,93.78,Meal,NovaHealth Inc
+PHY00459,Endocrinology,NC,2024-08-01,76.03,Royalty,BioGen Solutions
+PHY00460,Endocrinology,NC,2025-01-15,424.71,Consulting Fee,MedCore Ltd
+PHY00461,Oncology,PA,2024-02-27,380.19,Speaker Fee,Acme Pharma
+PHY00462,Pulmonology,GA,2024-09-10,1645.26,Travel & Lodging,MedCore Ltd
+PHY00463,Rheumatology,CA,2024-02-13,197.04,Royalty,BioGen Solutions
+PHY00464,Cardiology,MI,2025-03-11,11290.64,Consulting Fee,BioGen Solutions
+PHY00465,Neurology,FL,2024-06-26,210.07,Travel & Lodging,MedCore Ltd
+PHY00466,General Practice,CA,2024-09-24,85.4,Speaker Fee,MedCore Ltd
+PHY00467,Psychiatry,GA,2025-05-22,378.07,Research Payment,MedCore Ltd
+PHY00468,Cardiology,CA,2025-07-20,1264.09,Consulting Fee,BioGen Solutions
+PHY00469,Pulmonology,NY,2024-08-25,56.66,Meal,NovaHealth Inc
+PHY00470,Neurology,FL,2024-09-24,281.82,Speaker Fee,BioGen Solutions
+PHY00471,Pulmonology,GA,2025-01-21,630.6,Travel & Lodging,MedCore Ltd
+PHY00472,Psychiatry,PA,2025-04-30,176.57,Consulting Fee,MedCore Ltd
+PHY00473,Endocrinology,MI,2024-05-08,218.56,Meal,MedCore Ltd
+PHY00474,Neurology,OH,2025-09-10,166.24,Research Payment,MedCore Ltd
+PHY00475,Endocrinology,GA,2024-12-31,251.91,Consulting Fee,BioGen Solutions
+PHY00476,Psychiatry,TX,2024-04-18,1332.3,Research Payment,Acme Pharma
+PHY00477,Cardiology,MI,2025-10-31,68.38,Royalty,NovaHealth Inc
+PHY00478,Psychiatry,GA,2025-07-24,409.1,Travel & Lodging,Acme Pharma
+PHY00479,Cardiology,NY,2025-06-20,133.95,Royalty,Acme Pharma
+PHY00480,Neurology,OH,2024-08-14,478.39,Research Payment,MedCore Ltd
+PHY00481,Neurology,NY,2025-04-21,437.26,Royalty,BioGen Solutions
+PHY00482,Rheumatology,OH,2025-07-25,184.47,Meal,Acme Pharma
+PHY00483,Pulmonology,TX,2025-01-29,341.06,Consulting Fee,Acme Pharma
+PHY00484,Rheumatology,MI,2025-12-28,589.08,Speaker Fee,NovaHealth Inc
+PHY00485,Pulmonology,PA,2024-05-10,266.06,Research Payment,MedCore Ltd
+PHY00486,Rheumatology,NY,2024-08-05,854.42,Royalty,Acme Pharma
+PHY00487,Endocrinology,NY,2025-11-05,152.92,Speaker Fee,NovaHealth Inc
+PHY00488,Neurology,NC,2024-03-15,80.89,Consulting Fee,BioGen Solutions
+PHY00489,Cardiology,OH,2024-06-24,1634.34,Meal,BioGen Solutions
+PHY00490,Pulmonology,IL,2024-10-15,453.14,Meal,Acme Pharma
+PHY00491,Psychiatry,MI,2024-09-28,167.15,Meal,BioGen Solutions
+PHY00492,Pulmonology,OH,2025-03-29,108.79,Consulting Fee,MedCore Ltd
+PHY00493,Cardiology,NC,2024-05-03,186.96,Speaker Fee,Acme Pharma
+PHY00494,Rheumatology,CA,2024-05-22,119.94,Research Payment,BioGen Solutions
+PHY00495,Pulmonology,OH,2024-11-08,840.85,Royalty,MedCore Ltd
+PHY00496,General Practice,PA,2025-04-04,50.4,Consulting Fee,BioGen Solutions
+PHY00497,Endocrinology,MI,2025-01-27,524.09,Speaker Fee,BioGen Solutions
+PHY00498,Neurology,NC,2025-10-07,926.71,Travel & Lodging,BioGen Solutions
+PHY00499,Cardiology,CA,2025-02-10,155.21,Royalty,NovaHealth Inc
+PHY00500,Neurology,FL,2024-05-21,62.4,Meal,Acme Pharma
+PHY00328,General Practice,MI,2025-12-02,331.47,Royalty,BioGen Solutions
+PHY00084,Psychiatry,NC,2024-10-07,226.75,Royalty,NovaHealth Inc
+PHY00102,Oncology,NY,2025-12-27,389.9,Royalty,BioGen Solutions
+PHY00387,Endocrinology,NC,2025-03-01,106.09,Travel & Lodging,Acme Pharma
+PHY00284,General Practice,IL,2024-06-21,710.8,Meal,BioGen Solutions
+PHY00431,Cardiology,GA,2025-02-01,130.05,Royalty,Acme Pharma
+PHY00317,Endocrinology,NC,2025-11-06,187.14,Consulting Fee,MedCore Ltd
+PHY00308,Oncology,MI,2024-03-29,160.91,Royalty,BioGen Solutions
+PHY00309,Psychiatry,GA,2024-11-29,765.38,Consulting Fee,MedCore Ltd
+PHY00127,Oncology,NY,2024-09-11,1905.95,Research Payment,NovaHealth Inc
+PHY00369,Endocrinology,NY,2025-03-07,270.36,Royalty,NovaHealth Inc
+PHY00469,Pulmonology,NY,2025-10-22,139.7,Research Payment,MedCore Ltd
+PHY00276,Neurology,CA,2025-11-14,336.36,Consulting Fee,NovaHealth Inc
 PHY00216,Pulmonology,FL,2025-04-24,528.64,Consulting Fee,MedCore Ltd
 PHY00301,Cardiology,GA,2024-12-08,27.88,Meal,NovaHealth Inc
 PHY00047,Psychiatry,NC,2025-06-10,107.18,Consulting Fee,BioGen Solutions
@@ -499,8 +583,8 @@ PHY00371,Neurology,CA,2024-05-26,82.17,Meal,MedCore Ltd
 PHY00070,Rheumatology,FL,2025-11-25,253.32,Speaker Fee,MedCore Ltd
 PHY00102,Oncology,NY,2025-08-09,527.29,Travel & Lodging,BioGen Solutions
 PHY00192,Endocrinology,NC,2025-05-13,102.48,Speaker Fee,Acme Pharma
-PHY00179,Cardiology,NY,2024-03-22,3079.2,Meal,BioGen Solutions
-PHY00365,General Practice,CA,2024-06-11,60.2,Consulting Fee,MedCore Ltd
+PHY00179,Cardiology,NY,2025-12-31,1025.31,Meal,BioGen Solutions
+PHY00365,General Practice,CA,2024-06-11,163.32,Consulting Fee,MedCore Ltd
 PHY00116,Neurology,IL,2024-12-02,498.83,Royalty,Acme Pharma
 PHY00287,Cardiology,NY,2025-12-20,7.18,Speaker Fee,MedCore Ltd
 PHY00022,Pulmonology,CA,2024-12-14,3596.41,Research Payment,MedCore Ltd
@@ -650,10 +734,10 @@ PHY00310,Rheumatology,MI,2025-04-21,368.0,Meal,Acme Pharma
 PHY00280,Oncology,MI,2024-12-03,236.81,Speaker Fee,Acme Pharma
 PHY00322,Pulmonology,PA,2025-06-01,177.56,Speaker Fee,Acme Pharma
 PHY00412,Psychiatry,IL,2024-11-13,49.14,Meal,Acme Pharma
-PHY00433,Pulmonology,GA,2025-11-19,326.1,Meal,BioGen Solutions
-PHY00387,Endocrinology,NC,2024-04-07,30.06,Meal,MedCore Ltd
-PHY00074,Oncology,CA,2024-06-14,209.84,Royalty,NovaHealth Inc
-PHY00427,Cardiology,NC,2025-03-14,221.39,Royalty,MedCore Ltd
+PHY00433,Pulmonology,GA,2025-12-31,326.1,Consulting Fee,MedCore Ltd
+PHY00071,Oncology,TX,2025-01-21,221.38,Speaker Fee,MedCore Ltd
+PHY00280,Oncology,MI,2025-08-08,42.97,Royalty,NovaHealth Inc
+PHY00154,Endocrinology,OH,2025-03-14,221.39,Royalty,MedCore Ltd
 PHY00108,Neurology,FL,2025-02-06,305.77,Meal,BioGen Solutions
 PHY00367,Rheumatology,NC,2025-02-17,1273.39,Royalty,BioGen Solutions
 PHY00283,Rheumatology,IL,2024-03-13,769.95,Consulting Fee,MedCore Ltd
@@ -815,23 +899,21 @@ PHY00250,Endocrinology,CA,2025-08-18,89.45,Research Payment,Acme Pharma
 PHY00127,Oncology,NY,2025-09-17,84.44,Consulting Fee,MedCore Ltd
 PHY00500,Neurology,FL,2025-12-17,97.43,Consulting Fee,BioGen Solutions
 PHY00461,Oncology,PA,2024-09-29,85.48,Speaker Fee,MedCore Ltd
-PHY00498,Neurology,NC,2024-04-18,290.18,Travel & Lodging,NovaHealth Inc
-PHY00111,Psychiatry,MI,2025-11-29,487.67,Research Payment,BioGen Solutions
-PHY00229,Cardiology,TX,2025-05-11,596.2,Speaker Fee,NovaHealth Inc
-PHY00210,Pulmonology,IL,2025-05-25,811.25,Consulting Fee,NovaHealth Inc
-PHY00359,Cardiology,IL,2024-01-13,130.13,Royalty,NovaHealth Inc
-PHY00269,General Practice,OH,2024-06-19,1294.66,Research Payment,NovaHealth Inc
-PHY00149,Cardiology,MI,2025-09-15,289.89,Meal,BioGen Solutions
-PHY00201,General Practice,CA,2024-06-28,18.98,Speaker Fee,MedCore Ltd
-PHY00479,Cardiology,NY,2025-07-18,20.07,Royalty,BioGen Solutions
-PHY00001,General Practice,IL,2024-02-13,1938.43,Travel & Lodging,BioGen Solutions
-PHY00098,Neurology,PA,2025-12-20,123.49,Consulting Fee,MedCore Ltd
-PHY00072,Oncology,MI,2025-10-28,363.37,Royalty,MedCore Ltd
-PHY00321,Psychiatry,NY,2024-04-16,142.59,Travel & Lodging,BioGen Solutions
-PHY00171,Psychiatry,NC,2024-09-29,1106.08,Consulting Fee,MedCore Ltd
-PHY00221,Endocrinology,IL,2025-12-25,596.71,Royalty,NovaHealth Inc
-PHY00434,Psychiatry,FL,2025-09-05,280.52,Research Payment,Acme Pharma
-PHY00192,Endocrinology,NC,2025-05-13,1541.68,Travel & Lodging,BioGen Solutions
+PHY00498,Neurology,NC,2025-12-31,111.34,Travel & Lodging,Acme Pharma
+PHY00423,Rheumatology,PA,2024-08-16,101.55,Consulting Fee,MedCore Ltd
+PHY00473,Endocrinology,MI,2025-12-01,231.9,Speaker Fee,BioGen Solutions
+PHY00401,Psychiatry,NY,2024-10-12,57.01,Research Payment,MedCore Ltd
+PHY00498,Neurology,NC,2024-08-25,154.16,Research Payment,NovaHealth Inc
+PHY00149,Cardiology,MI,2025-09-15,387.45,Consulting Fee,MedCore Ltd
+PHY00467,Psychiatry,GA,2025-09-19,155.59,Meal,BioGen Solutions
+PHY00053,Endocrinology,CA,2025-04-15,2782.12,Meal,NovaHealth Inc
+PHY00417,Pulmonology,MI,2024-11-03,533.29,Consulting Fee,MedCore Ltd
+PHY00271,Rheumatology,NY,2024-05-19,607.21,Consulting Fee,Acme Pharma
+PHY00462,Pulmonology,GA,2024-03-12,320.48,Travel & Lodging,MedCore Ltd
+PHY00042,General Practice,TX,2025-12-02,438.15,Travel & Lodging,BioGen Solutions
+PHY00103,Oncology,IL,2025-11-13,61.08,Speaker Fee,Acme Pharma
+PHY00213,Pulmonology,NC,2025-02-27,506.27,Royalty,NovaHealth Inc
+PHY00434,Psychiatry,FL,2025-09-05,1541.68,Travel & Lodging,BioGen Solutions
 PHY00139,General Practice,TX,2024-05-28,288.71,Travel & Lodging,NovaHealth Inc
 PHY00063,Pulmonology,OH,2024-04-13,212.84,Consulting Fee,NovaHealth Inc
 PHY00147,Endocrinology,CA,2024-07-02,316.61,Royalty,MedCore Ltd
@@ -1775,9 +1857,9 @@ PHY00357,Oncology,IL,2025-04-12,118.03,Meal,Acme Pharma
 PHY00435,Neurology,GA,2024-03-13,1606.51,Travel & Lodging,Acme Pharma
 PHY00184,Endocrinology,CA,2025-11-29,32.52,Research Payment,Acme Pharma
 PHY00299,Pulmonology,NC,2024-03-16,171.64,Travel & Lodging,BioGen Solutions
-PHY00149,Cardiology,MI,2024-05-01,229.12,Meal,NovaHealth Inc
-PHY00376,Neurology,OH,2024-03-22,80.89,Meal,MedCore Ltd
-PHY00490,Pulmonology,IL,2024-09-29,203.07,Consulting Fee,BioGen Solutions
+PHY00149,Cardiology,MI,2025-12-31,97.88,Research Payment,MedCore Ltd
+PHY00238,Rheumatology,NC,2025-01-10,175.96,Speaker Fee,MedCore Ltd
+PHY00356,General Practice,NY,2024-09-29,203.07,Consulting Fee,BioGen Solutions
 PHY00323,Neurology,TX,2024-04-20,22.63,Speaker Fee,Acme Pharma
 PHY00089,Neurology,CA,2025-03-08,364.89,Travel & Lodging,Acme Pharma
 PHY00146,General Practice,CA,2025-11-24,193.18,Consulting Fee,Acme Pharma
@@ -1846,11 +1928,11 @@ PHY00023,Oncology,NC,2024-05-08,114.69,Travel & Lodging,MedCore Ltd
 PHY00186,Pulmonology,GA,2025-04-23,386.55,Travel & Lodging,Acme Pharma
 PHY00467,Psychiatry,GA,2024-10-11,373.68,Consulting Fee,Acme Pharma
 PHY00100,Pulmonology,NY,2024-07-07,278.24,Consulting Fee,NovaHealth Inc
-PHY00498,Neurology,NC,2025-02-20,296.53,Royalty,MedCore Ltd
-PHY00387,Endocrinology,NC,2025-04-15,35.12,Research Payment,Acme Pharma
-PHY00171,Psychiatry,NC,2024-07-31,386.42,Speaker Fee,Acme Pharma
-PHY00122,Pulmonology,FL,2024-08-14,235.54,Research Payment,BioGen Solutions
-PHY00247,Cardiology,CA,2025-03-26,2822.64,Consulting Fee,MedCore Ltd
+PHY00498,Neurology,NC,2025-12-31,296.53,Consulting Fee,NovaHealth Inc
+PHY00176,Rheumatology,IL,2025-01-21,429.81,Meal,Acme Pharma
+PHY00229,Cardiology,TX,2024-06-19,512.91,Research Payment,NovaHealth Inc
+PHY00041,Endocrinology,OH,2024-05-01,548.26,Consulting Fee,Acme Pharma
+PHY00495,Pulmonology,OH,2025-03-26,40.42,Consulting Fee,MedCore Ltd
 PHY00061,Endocrinology,IL,2025-05-16,206.14,Royalty,Acme Pharma
 PHY00441,Cardiology,NY,2024-05-21,32.24,Meal,MedCore Ltd
 PHY00353,Cardiology,IL,2024-11-28,273.58,Travel & Lodging,NovaHealth Inc
@@ -2411,16 +2493,16 @@ PHY00279,Cardiology,PA,2025-01-16,118.3,Consulting Fee,MedCore Ltd
 PHY00154,Endocrinology,OH,2024-06-29,235.46,Royalty,MedCore Ltd
 PHY00377,Neurology,MI,2024-06-16,135.85,Meal,Acme Pharma
 PHY00060,Pulmonology,GA,2024-09-22,31.25,Consulting Fee,BioGen Solutions
-PHY00021,Rheumatology,GA,2025-08-15,114.44,Meal,MedCore Ltd
-PHY00346,General Practice,NC,2024-05-11,2630.72,Consulting Fee,Acme Pharma
-PHY00030,Neurology,TX,2025-09-18,76.67,Research Payment,BioGen Solutions
-PHY00016,Pulmonology,TX,2025-06-17,797.66,Research Payment,MedCore Ltd
-PHY00304,Rheumatology,IL,2025-03-21,132.46,Travel & Lodging,MedCore Ltd
-PHY00389,Cardiology,OH,2025-12-20,81.14,Travel & Lodging,Acme Pharma
-PHY00265,Endocrinology,MI,2024-12-03,660.06,Research Payment,MedCore Ltd
-PHY00163,Psychiatry,NC,2025-03-13,39.87,Consulting Fee,NovaHealth Inc
-PHY00199,Pulmonology,PA,2025-05-14,178.18,Meal,MedCore Ltd
-PHY00239,Endocrinology,TX,2025-08-03,96.64,Research Payment,NovaHealth Inc
+PHY00021,Rheumatology,GA,2025-12-31,55.49,Speaker Fee,NovaHealth Inc
+PHY00405,Psychiatry,PA,2025-07-01,1129.27,Consulting Fee,MedCore Ltd
+PHY00324,Oncology,NY,2024-05-11,702.55,Research Payment,MedCore Ltd
+PHY00325,Rheumatology,IL,2025-05-23,75.13,Research Payment,BioGen Solutions
+PHY00016,Pulmonology,TX,2025-06-17,117.63,Consulting Fee,BioGen Solutions
+PHY00444,Psychiatry,IL,2024-08-17,378.05,Travel & Lodging,MedCore Ltd
+PHY00389,Cardiology,OH,2025-12-20,102.31,Speaker Fee,Acme Pharma
+PHY00378,Cardiology,MI,2024-06-23,197.54,Travel & Lodging,MedCore Ltd
+PHY00476,Psychiatry,TX,2024-09-22,3731.6,Meal,MedCore Ltd
+PHY00239,Endocrinology,TX,2025-08-03,261.02,Research Payment,NovaHealth Inc
 PHY00220,General Practice,OH,2025-03-28,47.63,Travel & Lodging,BioGen Solutions
 PHY00118,Rheumatology,MI,2025-02-08,392.7,Research Payment,BioGen Solutions
 PHY00082,Neurology,IL,2025-07-19,604.32,Research Payment,NovaHealth Inc
@@ -3290,11 +3372,11 @@ PHY00115,General Practice,CA,2024-09-05,79.4,Consulting Fee,NovaHealth Inc
 PHY00228,Rheumatology,OH,2025-08-07,119.44,Speaker Fee,MedCore Ltd
 PHY00371,Neurology,CA,2025-06-11,148.95,Travel & Lodging,NovaHealth Inc
 PHY00136,Pulmonology,CA,2024-03-14,500.09,Travel & Lodging,NovaHealth Inc
-PHY00003,Pulmonology,CA,2025-07-24,117.98,Meal,NovaHealth Inc
-PHY00064,Cardiology,FL,2025-08-04,881.48,Research Payment,NovaHealth Inc
-PHY00246,Rheumatology,GA,2024-03-21,45.85,Travel & Lodging,BioGen Solutions
-PHY00285,Oncology,FL,2025-01-03,88.4,Meal,Acme Pharma
-PHY00445,Neurology,TX,2025-07-06,260.15,Research Payment,MedCore Ltd
+PHY00003,Pulmonology,CA,2025-12-31,117.98,Travel & Lodging,MedCore Ltd
+PHY00302,Cardiology,PA,2025-07-29,169.83,Speaker Fee,BioGen Solutions
+PHY00415,Endocrinology,GA,2024-08-08,168.09,Speaker Fee,NovaHealth Inc
+PHY00081,General Practice,MI,2025-07-16,256.34,Speaker Fee,MedCore Ltd
+PHY00025,Neurology,OH,2025-07-06,107.42,Research Payment,MedCore Ltd
 PHY00492,Pulmonology,OH,2024-08-27,247.06,Research Payment,BioGen Solutions
 PHY00090,Oncology,TX,2025-11-20,132.64,Consulting Fee,MedCore Ltd
 PHY00202,Psychiatry,FL,2024-11-17,132.61,Speaker Fee,Acme Pharma
@@ -3917,85 +3999,3 @@ PHY00153,Cardiology,NY,2024-08-26,129.48,Royalty,BioGen Solutions
 PHY00158,Oncology,MI,2025-04-25,22.52,Meal,Acme Pharma
 PHY00416,Cardiology,CA,2024-07-21,576.6,Consulting Fee,Acme Pharma
 PHY00385,Pulmonology,PA,2025-10-04,967.35,Meal,BioGen Solutions
-PHY00097,Oncology,IL,2024-02-15,266.23,Royalty,BioGen Solutions
-PHY00458,Psychiatry,MI,2024-07-22,246.65,Speaker Fee,NovaHealth Inc
-PHY00482,Rheumatology,OH,2025-05-25,1838.89,Research Payment,MedCore Ltd
-PHY00356,General Practice,NY,2025-08-21,244.03,Royalty,MedCore Ltd
-PHY00067,Neurology,NY,2025-12-23,343.06,Consulting Fee,Acme Pharma
-PHY00115,General Practice,CA,2025-02-23,277.62,Travel & Lodging,NovaHealth Inc
-PHY00380,Cardiology,PA,2024-05-22,2322.2,Consulting Fee,Acme Pharma
-PHY00238,Rheumatology,NC,2025-07-21,277.39,Research Payment,BioGen Solutions
-PHY00449,General Practice,PA,2025-09-01,171.96,Consulting Fee,BioGen Solutions
-PHY00042,General Practice,TX,2025-12-08,311.32,Speaker Fee,BioGen Solutions
-PHY00325,Rheumatology,IL,2024-09-21,1855.91,Travel & Lodging,MedCore Ltd
-PHY00074,Oncology,CA,2025-09-06,83.66,Consulting Fee,BioGen Solutions
-PHY00102,Oncology,NY,2024-09-20,891.54,Speaker Fee,Acme Pharma
-PHY00387,Endocrinology,NC,2024-03-26,65.4,Travel & Lodging,Acme Pharma
-PHY00217,Neurology,IL,2025-07-31,21.51,Royalty,BioGen Solutions
-PHY00356,General Practice,NY,2024-09-08,97.89,Research Payment,BioGen Solutions
-PHY00430,Neurology,PA,2025-11-05,1827.61,Travel & Lodging,MedCore Ltd
-PHY00067,Neurology,NY,2024-07-17,193.87,Speaker Fee,Acme Pharma
-PHY00442,Psychiatry,NY,2024-01-01,173.14,Research Payment,Acme Pharma
-PHY00092,Neurology,NC,2024-09-30,90.97,Speaker Fee,MedCore Ltd
-PHY00173,Endocrinology,NC,2025-06-28,73.28,Consulting Fee,BioGen Solutions
-PHY00196,Oncology,CA,2025-08-21,363.25,Research Payment,MedCore Ltd
-PHY00044,Psychiatry,OH,2025-05-08,256.88,Meal,NovaHealth Inc
-PHY00088,Cardiology,MI,2025-10-19,609.97,Consulting Fee,Acme Pharma
-PHY00041,Endocrinology,OH,2024-05-05,222.87,Royalty,MedCore Ltd
-PHY00402,Neurology,TX,2024-06-24,919.02,Meal,NovaHealth Inc
-PHY00323,Neurology,TX,2025-01-01,59.72,Travel & Lodging,NovaHealth Inc
-PHY00118,Rheumatology,MI,2025-12-25,108.92,Research Payment,MedCore Ltd
-PHY00271,Rheumatology,NY,2024-12-12,469.61,Royalty,BioGen Solutions
-PHY00463,Rheumatology,CA,2024-08-18,27.96,Research Payment,Acme Pharma
-PHY00035,Rheumatology,NC,2024-01-26,123.75,Research Payment,NovaHealth Inc
-PHY00320,Rheumatology,FL,2024-06-04,531.52,Meal,Acme Pharma
-PHY00390,Cardiology,IL,2025-10-12,619.34,Travel & Lodging,MedCore Ltd
-PHY00430,Neurology,PA,2025-08-20,671.32,Research Payment,MedCore Ltd
-PHY00054,Neurology,FL,2025-08-27,77.9,Speaker Fee,NovaHealth Inc
-PHY00203,General Practice,NC,2025-12-08,128.96,Speaker Fee,NovaHealth Inc
-PHY00256,Endocrinology,NY,2024-08-10,666.41,Travel & Lodging,BioGen Solutions
-PHY00103,Oncology,IL,2024-06-09,48.51,Consulting Fee,MedCore Ltd
-PHY00430,Neurology,PA,2025-02-01,218.49,Research Payment,NovaHealth Inc
-PHY00277,Cardiology,PA,2024-04-20,359.07,Travel & Lodging,NovaHealth Inc
-PHY00014,Endocrinology,PA,2025-04-26,69.08,Meal,NovaHealth Inc
-PHY00146,General Practice,CA,2024-10-08,585.3,Research Payment,NovaHealth Inc
-PHY00169,General Practice,GA,2024-06-18,2755.44,Consulting Fee,Acme Pharma
-PHY00225,Oncology,MI,2025-11-25,257.93,Research Payment,Acme Pharma
-PHY00118,Rheumatology,MI,2024-12-30,1128.76,Research Payment,MedCore Ltd
-PHY00450,Rheumatology,CA,2025-07-10,11.44,Speaker Fee,BioGen Solutions
-PHY00429,Cardiology,OH,2025-02-06,1289.29,Consulting Fee,BioGen Solutions
-PHY00164,Neurology,OH,2024-11-19,393.84,Speaker Fee,BioGen Solutions
-PHY00186,Pulmonology,GA,2024-07-26,720.68,Meal,MedCore Ltd
-PHY00088,Cardiology,MI,2025-06-20,97.22,Research Payment,MedCore Ltd
-PHY00275,Cardiology,GA,2025-10-08,172.89,Speaker Fee,MedCore Ltd
-PHY00423,Rheumatology,PA,2024-09-11,247.11,Research Payment,NovaHealth Inc
-PHY00103,Oncology,IL,2025-01-19,386.69,Royalty,MedCore Ltd
-PHY00414,Cardiology,MI,2024-09-23,257.1,Royalty,BioGen Solutions
-PHY00381,Psychiatry,PA,2025-08-23,293.92,Research Payment,MedCore Ltd
-PHY00087,Rheumatology,MI,2024-04-27,765.5,Royalty,MedCore Ltd
-PHY00434,Psychiatry,FL,2024-12-24,45.07,Meal,Acme Pharma
-PHY00361,Neurology,IL,2025-08-07,137.65,Research Payment,BioGen Solutions
-PHY00195,General Practice,CA,2025-08-23,964.29,Research Payment,NovaHealth Inc
-PHY00053,Endocrinology,CA,2024-05-21,280.37,Speaker Fee,BioGen Solutions
-PHY00223,Rheumatology,MI,2024-09-22,838.98,Royalty,Acme Pharma
-PHY00335,Rheumatology,PA,2025-06-04,178.61,Speaker Fee,MedCore Ltd
-PHY00140,Cardiology,NY,2024-11-11,253.23,Travel & Lodging,BioGen Solutions
-PHY00352,Cardiology,CA,2024-02-22,169.36,Meal,BioGen Solutions
-PHY00232,Neurology,MI,2024-07-30,1289.03,Consulting Fee,BioGen Solutions
-PHY00015,Psychiatry,OH,2025-11-09,149.83,Research Payment,MedCore Ltd
-PHY00121,Psychiatry,IL,2024-08-27,112.64,Travel & Lodging,NovaHealth Inc
-PHY00309,Psychiatry,GA,2025-12-27,675.95,Research Payment,Acme Pharma
-PHY00093,Oncology,GA,2024-06-29,260.59,Travel & Lodging,NovaHealth Inc
-PHY00393,Psychiatry,NY,2024-10-08,290.65,Travel & Lodging,MedCore Ltd
-PHY00047,Psychiatry,NC,2024-01-05,337.92,Speaker Fee,MedCore Ltd
-PHY00063,Pulmonology,OH,2024-02-13,1046.21,Consulting Fee,NovaHealth Inc
-PHY00270,Endocrinology,CA,2025-11-13,210.79,Speaker Fee,MedCore Ltd
-PHY00483,Pulmonology,TX,2024-08-01,222.63,Travel & Lodging,NovaHealth Inc
-PHY00098,Neurology,PA,2025-10-25,11.38,Meal,BioGen Solutions
-PHY00457,Rheumatology,NC,2025-06-05,154.13,Research Payment,NovaHealth Inc
-PHY00162,Cardiology,NY,2025-04-21,217.54,Speaker Fee,NovaHealth Inc
-PHY00445,Neurology,TX,2025-03-21,646.67,Consulting Fee,Acme Pharma
-PHY00318,Cardiology,CA,2025-03-23,829.68,Meal,Acme Pharma
-PHY00435,Neurology,GA,2024-07-20,140.4,Meal,MedCore Ltd
-PHY00285,Oncology,FL,2024-06-28,482.97,Travel & Lodging,Acme Pharma
-PHY00464,Cardiology,MI,2025-02-03,53.25,Meal,Acme Pharma
